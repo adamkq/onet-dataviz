@@ -1,0 +1,1091 @@
+SOC Code,Job Name,Job Family,isBright,isGreen,Job Zone,Avg Salary,Job Forecast,ChanceAuto
+13-2011.01,Accountants,Business and Financial Operations,True,False,1,0,0,0.1
+13-2011.00,Accountants and Auditors,Business and Financial Operations,True,False,1,0,0,0.1
+27-2011.00,Actors,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+15-2011.00,Actuaries,Computer and Mathematical,True,False,1,0,0,0.1
+29-1199.01,Acupuncturists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1141.01,Acute Care Nurses,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+25-2059.01,Adapted Physical Education Specialists,"Education, Training, and Library",True,False,1,0,0,0.1
+51-9191.00,Adhesive Bonding Machine Operators and Tenders,Production,False,False,1,0,0,0.1
+23-1021.00,"Administrative Law Judges, Adjudicators, and Hearing Officers",Legal,False,False,1,0,0,0.1
+11-3011.00,Administrative Services Managers,Management,True,False,1,0,0,0.1
+25-3011.00,Adult Basic and Secondary Education and Literacy Teachers and Instructors,"Education, Training, and Library",False,False,1,0,0,0.1
+29-1141.02,Advanced Practice Psychiatric Nurses,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+11-2011.00,Advertising and Promotions Managers,Management,False,False,1,0,0,0.1
+41-3011.00,Advertising Sales Agents,Sales and Related,False,False,1,0,0,0.1
+17-3021.00,Aerospace Engineering and Operations Technicians,Architecture and Engineering,False,False,1,0,0,0.1
+17-2011.00,Aerospace Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",Business and Financial Operations,True,False,1,0,0,0.1
+19-4011.00,Agricultural and Food Science Technicians,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+17-2021.00,Agricultural Engineers,Architecture and Engineering,False,False,1,0,0,0.1
+45-2091.00,Agricultural Equipment Operators,"Farming, Fishing, and Forestry",True,False,1,0,0,0.1
+45-2011.00,Agricultural Inspectors,"Farming, Fishing, and Forestry",False,True,1,0,0,0.1
+25-1041.00,"Agricultural Sciences Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+19-4011.01,Agricultural Technicians,"Life, Physical, and Social Science",False,True,1,0,0,0.1
+45-2099.00,"Agricultural Workers, All Other","Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+53-2021.00,Air Traffic Controllers,Transportation and Material Moving,False,False,1,0,0,0.1
+53-1011.00,Aircraft Cargo Handling Supervisors,Transportation and Material Moving,False,False,1,0,0,0.1
+49-3011.00,Aircraft Mechanics and Service Technicians,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+51-2011.00,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",Production,False,True,1,0,0,0.1
+53-2022.00,Airfield Operations Specialists,Transportation and Material Moving,True,False,1,0,0,0.1
+53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",Transportation and Material Moving,False,False,1,0,0,0.1
+29-1069.01,Allergists and Immunologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+53-3011.00,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Transportation and Material Moving,True,False,1,0,0,0.1
+39-3091.00,Amusement and Recreation Attendants,Personal Care and Service,True,False,1,0,0,0.1
+29-1071.01,Anesthesiologist Assistants,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1061.00,Anesthesiologists,Healthcare Practitioners and Technical,False,False,1,0,0,0.1
+45-2021.00,Animal Breeders,"Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+33-9011.00,Animal Control Workers,Protective Service,False,False,1,0,0,0.1
+19-1011.00,Animal Scientists,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+39-2011.00,Animal Trainers,Personal Care and Service,True,False,1,0,0,0.1
+19-3091.01,Anthropologists,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+19-3091.00,Anthropologists and Archeologists,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+25-1061.00,"Anthropology and Archeology Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+13-2021.00,Appraisers and Assessors of Real Estate,Business and Financial Operations,True,False,1,0,0,0.1
+13-2021.02,"Appraisers, Real Estate",Business and Financial Operations,True,False,1,0,0,0.1
+11-9013.03,Aquacultural Managers,Management,False,False,1,0,0,0.1
+23-1022.00,"Arbitrators, Mediators, and Conciliators",Legal,True,True,1,0,0,0.1
+19-3091.02,Archeologists,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+17-1011.00,"Architects, Except Landscape and Naval",Architecture and Engineering,True,True,1,0,0,0.1
+17-3011.00,Architectural and Civil Drafters,Architecture and Engineering,False,False,1,0,0,0.1
+11-9041.00,Architectural and Engineering Managers,Management,False,True,1,0,0,0.1
+17-3011.01,Architectural Drafters,Architecture and Engineering,False,True,1,0,0,0.1
+25-1031.00,"Architecture Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+25-4011.00,Archivists,"Education, Training, and Library",True,False,1,0,0,0.1
+25-1062.00,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+27-1011.00,Art Directors,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+29-1125.01,Art Therapists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+25-1121.00,"Art, Drama, and Music Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+27-1019.00,"Artists and Related Workers, All Other","Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+51-2099.00,"Assemblers and Fabricators, All Other",Production,False,False,1,0,0,0.1
+13-2021.01,Assessors,Business and Financial Operations,True,False,1,0,0,0.1
+19-2011.00,Astronomers,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+27-2021.00,Athletes and Sports Competitors,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+29-9091.00,Athletic Trainers,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+19-2021.00,Atmospheric and Space Scientists,"Life, Physical, and Social Science",True,True,1,0,0,0.1
+25-1051.00,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+27-4011.00,Audio and Video Equipment Technicians,"Arts, Design, Entertainment, Sports, and Media",True,False,1,0,0,0.1
+25-9011.00,Audio-Visual and Multimedia Collections Specialists,"Education, Training, and Library",False,False,1,0,0,0.1
+29-1181.00,Audiologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+13-2011.02,Auditors,Business and Financial Operations,True,False,1,0,0,0.1
+53-6031.00,Automotive and Watercraft Service Attendants,Transportation and Material Moving,False,False,1,0,0,0.1
+49-3021.00,Automotive Body and Related Repairers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+17-3027.01,Automotive Engineering Technicians,Architecture and Engineering,False,True,1,0,0,0.1
+17-2141.02,Automotive Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+49-3022.00,Automotive Glass Installers and Repairers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+49-3023.01,Automotive Master Mechanics,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+49-3023.00,Automotive Service Technicians and Mechanics,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+49-3023.02,Automotive Specialty Technicians,"Installation, Maintenance, and Repair",False,True,1,0,0,0.1
+53-6051.01,Aviation Inspectors,Transportation and Material Moving,False,False,1,0,0,0.1
+49-2091.00,Avionics Technicians,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+39-6011.00,Baggage Porters and Bellhops,Personal Care and Service,False,False,1,0,0,0.1
+33-3011.00,Bailiffs,Protective Service,False,False,1,0,0,0.1
+51-3011.00,Bakers,Production,False,False,1,0,0,0.1
+39-5011.00,Barbers,Personal Care and Service,True,False,1,0,0,0.1
+35-3022.01,Baristas,Food Preparation and Serving Related,True,False,1,0,0,0.1
+35-3011.00,Bartenders,Food Preparation and Serving Related,True,False,1,0,0,0.1
+49-3091.00,Bicycle Repairers,"Installation, Maintenance, and Repair",True,False,1,0,0,0.1
+43-3011.00,Bill and Account Collectors,Office and Administrative Support,False,False,1,0,0,0.1
+43-3021.00,Billing and Posting Clerks,Office and Administrative Support,True,False,1,0,0,0.1
+43-3021.02,"Billing, Cost, and Rate Clerks",Office and Administrative Support,True,False,1,0,0,0.1
+17-2199.01,Biochemical Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+19-1021.00,Biochemists and Biophysicists,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+51-8099.01,Biofuels Processing Technicians,Production,False,True,1,0,0,0.1
+11-3051.03,Biofuels Production Managers,Management,False,True,1,0,0,0.1
+11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,Management,False,True,1,0,0,0.1
+19-1029.01,Bioinformatics Scientists,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+43-9111.01,Bioinformatics Technicians,Office and Administrative Support,True,False,1,0,0,0.1
+25-1042.00,"Biological Science Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+19-1029.00,"Biological Scientists, All Other","Life, Physical, and Social Science",False,False,1,0,0,0.1
+19-4021.00,Biological Technicians,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+19-1020.01,Biologists,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+51-8099.03,Biomass Plant Technicians,Production,False,True,1,0,0,0.1
+11-3051.04,Biomass Power Plant Managers,Management,False,True,1,0,0,0.1
+17-2031.00,Biomedical Engineers,Architecture and Engineering,False,False,1,0,0,0.1
+15-2041.01,Biostatisticians,Computer and Mathematical,True,False,1,0,0,0.1
+47-2011.00,Boilermakers,Construction and Extraction,False,True,1,0,0,0.1
+43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks",Office and Administrative Support,True,False,1,0,0,0.1
+47-2021.00,Brickmasons and Blockmasons,Construction and Extraction,True,False,1,0,0,0.1
+53-6011.00,Bridge and Lock Tenders,Transportation and Material Moving,False,False,1,0,0,0.1
+27-3021.00,Broadcast News Analysts,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+27-4012.00,Broadcast Technicians,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+43-4011.00,Brokerage Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+11-9199.11,Brownfield Redevelopment Specialists and Site Managers,Management,False,True,1,0,0,0.1
+13-2031.00,Budget Analysts,Business and Financial Operations,False,False,1,0,0,0.1
+37-2019.00,"Building Cleaning Workers, All Other",Building and Grounds Cleaning and Maintenance,True,False,1,0,0,0.1
+49-3031.00,Bus and Truck Mechanics and Diesel Engine Specialists,"Installation, Maintenance, and Repair",False,True,1,0,0,0.1
+53-3022.00,"Bus Drivers, School or Special Client",Transportation and Material Moving,False,False,1,0,0,0.1
+53-3021.00,"Bus Drivers, Transit and Intercity",Transportation and Material Moving,False,True,1,0,0,0.1
+13-1199.04,Business Continuity Planners,Business and Financial Operations,True,False,1,0,0,0.1
+15-1199.08,Business Intelligence Analysts,Computer and Mathematical,True,False,1,0,0,0.1
+13-1199.00,"Business Operations Specialists, All Other",Business and Financial Operations,True,False,1,0,0,0.1
+25-1011.00,"Business Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+51-3021.00,Butchers and Meat Cutters,Production,False,False,1,0,0,0.1
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",Business and Financial Operations,False,True,1,0,0,0.1
+51-7011.00,Cabinetmakers and Bench Carpenters,Production,False,False,1,0,0,0.1
+49-9061.00,Camera and Photographic Equipment Repairers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+27-4031.00,"Camera Operators, Television, Video, and Motion Picture","Arts, Design, Entertainment, Sports, and Media",True,False,1,0,0,0.1
+53-5021.00,"Captains, Mates, and Pilots of Water Vessels",Transportation and Material Moving,False,False,1,0,0,0.1
+29-2031.00,Cardiovascular Technologists and Technicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+25-2023.00,"Career/Technical Education Teachers, Middle School","Education, Training, and Library",False,False,1,0,0,0.1
+25-2032.00,"Career/Technical Education Teachers, Secondary School","Education, Training, and Library",False,False,1,0,0,0.1
+43-5011.00,Cargo and Freight Agents,Office and Administrative Support,True,False,1,0,0,0.1
+47-2031.00,Carpenters,Construction and Extraction,True,False,1,0,0,0.1
+47-2041.00,Carpet Installers,Construction and Extraction,False,False,1,0,0,0.1
+17-1021.00,Cartographers and Photogrammetrists,Architecture and Engineering,True,False,1,0,0,0.1
+41-2011.00,Cashiers,Sales and Related,True,False,1,0,0,0.1
+47-2051.00,Cement Masons and Concrete Finishers,Construction and Extraction,True,True,1,0,0,0.1
+35-1011.00,Chefs and Head Cooks,Food Preparation and Serving Related,True,False,1,0,0,0.1
+17-2041.00,Chemical Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+51-9011.00,Chemical Equipment Operators and Tenders,Production,False,True,1,0,0,0.1
+51-8091.00,Chemical Plant and System Operators,Production,False,True,1,0,0,0.1
+19-4031.00,Chemical Technicians,"Life, Physical, and Social Science",False,True,1,0,0,0.1
+25-1052.00,"Chemistry Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+19-2031.00,Chemists,"Life, Physical, and Social Science",False,True,1,0,0,0.1
+11-1011.00,Chief Executives,Management,False,False,1,0,0,0.1
+11-1011.03,Chief Sustainability Officers,Management,False,True,1,0,0,0.1
+21-1021.00,"Child, Family, and School Social Workers",Community and Social Service,True,False,1,0,0,0.1
+39-9011.00,Childcare Workers,Personal Care and Service,True,False,1,0,0,0.1
+29-1011.00,Chiropractors,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+27-2032.00,Choreographers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+19-4061.01,City and Regional Planning Aides,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+17-3011.02,Civil Drafters,Architecture and Engineering,False,False,1,0,0,0.1
+17-3022.00,Civil Engineering Technicians,Architecture and Engineering,False,False,1,0,0,0.1
+17-2051.00,Civil Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+13-1031.00,"Claims Adjusters, Examiners, and Investigators",Business and Financial Operations,False,False,1,0,0,0.1
+13-1031.01,"Claims Examiners, Property and Casualty Insurance",Business and Financial Operations,False,False,1,0,0,0.1
+53-7061.00,Cleaners of Vehicles and Equipment,Transportation and Material Moving,False,False,1,0,0,0.1
+51-9192.00,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Production,False,False,1,0,0,0.1
+21-2011.00,Clergy,Community and Social Service,False,False,1,0,0,0.1
+19-2041.01,Climate Change Analysts,"Life, Physical, and Social Science",True,True,1,0,0,0.1
+15-2041.02,Clinical Data Managers,Computer and Mathematical,True,False,1,0,0,0.1
+29-1141.04,Clinical Nurse Specialists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+19-3031.02,Clinical Psychologists,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+11-9121.01,Clinical Research Coordinators,Management,False,False,1,0,0,0.1
+19-3031.00,"Clinical, Counseling, and School Psychologists","Life, Physical, and Social Science",True,False,1,0,0,0.1
+27-2022.00,Coaches and Scouts,"Arts, Design, Entertainment, Sports, and Media",True,False,1,0,0,0.1
+51-9121.00,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Production,False,False,1,0,0,0.1
+51-2021.00,"Coil Winders, Tapers, and Finishers",Production,False,False,1,0,0,0.1
+49-9091.00,"Coin, Vending, and Amusement Machine Servicers and Repairers","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+35-3021.00,"Combined Food Preparation and Serving Workers, Including Fast Food",Food Preparation and Serving Related,True,False,1,0,0,0.1
+27-1021.00,Commercial and Industrial Designers,"Arts, Design, Entertainment, Sports, and Media",False,True,1,0,0,0.1
+49-9092.00,Commercial Divers,"Installation, Maintenance, and Repair",True,False,1,0,0,0.1
+53-2012.00,Commercial Pilots,Transportation and Material Moving,True,False,1,0,0,0.1
+43-2099.00,"Communications Equipment Operators, All Other",Office and Administrative Support,True,False,1,0,0,0.1
+25-1122.00,"Communications Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+21-1099.00,"Community and Social Service Specialists, All Other",Community and Social Service,True,False,1,0,0,0.1
+21-1094.00,Community Health Workers,Community and Social Service,True,False,1,0,0,0.1
+11-3111.00,Compensation and Benefits Managers,Management,False,False,1,0,0,0.1
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",Business and Financial Operations,False,False,1,0,0,0.1
+11-9199.02,Compliance Managers,Management,False,True,1,0,0,0.1
+13-1041.00,Compliance Officers,Business and Financial Operations,False,False,1,0,0,0.1
+15-1111.00,Computer and Information Research Scientists,Computer and Mathematical,True,False,1,0,0,0.1
+11-3021.00,Computer and Information Systems Managers,Management,True,False,1,0,0,0.1
+17-2061.00,Computer Hardware Engineers,Architecture and Engineering,False,False,1,0,0,0.1
+15-1143.00,Computer Network Architects,Computer and Mathematical,False,False,1,0,0,0.1
+15-1152.00,Computer Network Support Specialists,Computer and Mathematical,False,False,1,0,0,0.1
+51-4012.00,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Production,True,False,1,0,0,0.1
+15-1199.00,"Computer Occupations, All Other",Computer and Mathematical,True,False,1,0,0,0.1
+43-9011.00,Computer Operators,Office and Administrative Support,False,False,1,0,0,0.1
+15-1131.00,Computer Programmers,Computer and Mathematical,False,False,1,0,0,0.1
+25-1021.00,"Computer Science Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+15-1121.00,Computer Systems Analysts,Computer and Mathematical,True,False,1,0,0,0.1
+15-1199.02,Computer Systems Engineers/Architects,Computer and Mathematical,True,False,1,0,0,0.1
+15-1151.00,Computer User Support Specialists,Computer and Mathematical,True,False,1,0,0,0.1
+49-2011.00,"Computer, Automated Teller, and Office Machine Repairers","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+51-4011.00,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Production,False,True,1,0,0,0.1
+39-6012.00,Concierges,Personal Care and Service,False,False,1,0,0,0.1
+19-1031.00,Conservation Scientists,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+47-4011.00,Construction and Building Inspectors,Construction and Extraction,True,True,1,0,0,0.1
+47-4099.00,"Construction and Related Workers, All Other",Construction and Extraction,True,False,1,0,0,0.1
+47-2031.01,Construction Carpenters,Construction and Extraction,True,True,1,0,0,0.1
+47-2061.00,Construction Laborers,Construction and Extraction,True,True,1,0,0,0.1
+11-9021.00,Construction Managers,Management,True,True,1,0,0,0.1
+47-5041.00,Continuous Mining Machine Operators,Construction and Extraction,False,True,1,0,0,0.1
+49-9012.00,"Control and Valve Installers and Repairers, Except Mechanical Door","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+53-7011.00,Conveyor Operators and Tenders,Transportation and Material Moving,False,False,1,0,0,0.1
+35-2019.00,"Cooks, All Other",Food Preparation and Serving Related,False,False,1,0,0,0.1
+35-2011.00,"Cooks, Fast Food",Food Preparation and Serving Related,False,False,1,0,0,0.1
+35-2012.00,"Cooks, Institution and Cafeteria",Food Preparation and Serving Related,False,False,1,0,0,0.1
+35-2013.00,"Cooks, Private Household",Food Preparation and Serving Related,False,False,1,0,0,0.1
+35-2014.00,"Cooks, Restaurant",Food Preparation and Serving Related,True,False,1,0,0,0.1
+35-2015.00,"Cooks, Short Order",Food Preparation and Serving Related,False,False,1,0,0,0.1
+51-9193.00,Cooling and Freezing Equipment Operators and Tenders,Production,False,False,1,0,0,0.1
+27-3043.04,Copy Writers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+13-1041.06,Coroners,Business and Financial Operations,False,False,1,0,0,0.1
+33-3012.00,Correctional Officers and Jailers,Protective Service,False,False,1,0,0,0.1
+43-4021.00,Correspondence Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+13-1051.00,Cost Estimators,Business and Financial Operations,True,False,1,0,0,0.1
+39-3092.00,Costume Attendants,Personal Care and Service,False,False,1,0,0,0.1
+19-3031.03,Counseling Psychologists,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+21-1019.00,"Counselors, All Other",Community and Social Service,True,False,1,0,0,0.1
+41-2021.00,Counter and Rental Clerks,Sales and Related,False,False,1,0,0,0.1
+35-3022.00,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",Food Preparation and Serving Related,True,False,1,0,0,0.1
+43-5021.00,Couriers and Messengers,Office and Administrative Support,False,False,1,0,0,0.1
+43-4031.01,Court Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+23-2091.00,Court Reporters,Legal,True,False,1,0,0,0.1
+43-4031.00,"Court, Municipal, and License Clerks",Office and Administrative Support,False,False,1,0,0,0.1
+27-1012.00,Craft Artists,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+53-7021.00,Crane and Tower Operators,Transportation and Material Moving,False,False,1,0,0,0.1
+13-2041.00,Credit Analysts,Business and Financial Operations,False,False,1,0,0,0.1
+43-4041.01,Credit Authorizers,Office and Administrative Support,False,False,1,0,0,0.1
+43-4041.00,"Credit Authorizers, Checkers, and Clerks",Office and Administrative Support,False,False,1,0,0,0.1
+43-4041.02,Credit Checkers,Office and Administrative Support,False,False,1,0,0,0.1
+13-2071.00,Credit Counselors,Business and Financial Operations,True,False,1,0,0,0.1
+33-3021.03,Criminal Investigators and Special Agents,Protective Service,False,False,1,0,0,0.1
+25-1111.00,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+29-1141.03,Critical Care Nurses,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+33-9091.00,Crossing Guards,Protective Service,False,False,1,0,0,0.1
+51-9021.00,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Production,False,False,1,0,0,0.1
+25-4012.00,Curators,"Education, Training, and Library",True,False,1,0,0,0.1
+43-4051.00,Customer Service Representatives,Office and Administrative Support,True,True,1,0,0,0.1
+13-1199.03,Customs Brokers,Business and Financial Operations,True,False,1,0,0,0.1
+51-9031.00,"Cutters and Trimmers, Hand",Production,False,False,1,0,0,0.1
+51-9032.00,"Cutting and Slicing Machine Setters, Operators, and Tenders",Production,False,False,1,0,0,0.1
+51-4031.00,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,True,1,0,0,0.1
+29-2011.01,Cytogenetic Technologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-2011.02,Cytotechnologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+27-2031.00,Dancers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+43-9021.00,Data Entry Keyers,Office and Administrative Support,False,False,1,0,0,0.1
+15-1199.07,Data Warehousing Specialists,Computer and Mathematical,True,False,1,0,0,0.1
+15-1141.00,Database Administrators,Computer and Mathematical,True,False,1,0,0,0.1
+15-1199.06,Database Architects,Computer and Mathematical,True,False,1,0,0,0.1
+41-9011.00,Demonstrators and Product Promoters,Sales and Related,False,False,1,0,0,0.1
+31-9091.00,Dental Assistants,Healthcare Support,True,False,1,0,0,0.1
+29-2021.00,Dental Hygienists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+51-9081.00,Dental Laboratory Technicians,Production,True,False,1,0,0,0.1
+29-1029.00,"Dentists, All Other Specialists",Healthcare Practitioners and Technical,False,False,1,0,0,0.1
+29-1021.00,"Dentists, General",Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1069.02,Dermatologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+47-5011.00,"Derrick Operators, Oil and Gas",Construction and Extraction,True,False,1,0,0,0.1
+27-1029.00,"Designers, All Other","Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+43-9031.00,Desktop Publishers,Office and Administrative Support,False,False,1,0,0,0.1
+33-3021.00,Detectives and Criminal Investigators,Protective Service,False,False,1,0,0,0.1
+29-2032.00,Diagnostic Medical Sonographers,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-2051.00,Dietetic Technicians,Healthcare Practitioners and Technical,False,False,1,0,0,0.1
+29-1031.00,Dietitians and Nutritionists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+35-9011.00,Dining Room and Cafeteria Attendants and Bartender Helpers,Food Preparation and Serving Related,True,False,1,0,0,0.1
+21-2021.00,"Directors, Religious Activities and Education",Community and Social Service,False,False,1,0,0,0.1
+27-2012.02,"Directors- Stage, Motion Pictures, Television, and Radio","Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+35-9021.00,Dishwashers,Food Preparation and Serving Related,False,False,1,0,0,0.1
+43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance",Office and Administrative Support,False,True,1,0,0,0.1
+11-9039.01,Distance Learning Coordinators,Management,True,False,1,0,0,0.1
+15-1199.12,Document Management Specialists,Computer and Mathematical,True,False,1,0,0,0.1
+41-9091.00,"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers",Sales and Related,False,False,1,0,0,0.1
+17-3019.00,"Drafters, All Other",Architecture and Engineering,False,False,1,0,0,0.1
+53-7031.00,Dredge Operators,Transportation and Material Moving,False,False,1,0,0,0.1
+51-4032.00,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,False,True,1,0,0,0.1
+53-3031.00,Driver/Sales Workers,Transportation and Material Moving,False,False,1,0,0,0.1
+47-2081.00,Drywall and Ceiling Tile Installers,Construction and Extraction,False,False,1,0,0,0.1
+47-5021.00,"Earth Drillers, Except Oil and Gas",Construction and Extraction,True,False,1,0,0,0.1
+25-1063.00,"Economics Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+19-3011.00,Economists,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+27-3041.00,Editors,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+11-9039.00,"Education Administrators, All Other",Management,True,False,1,0,0,0.1
+11-9032.00,"Education Administrators, Elementary and Secondary School",Management,False,False,1,0,0,0.1
+11-9033.00,"Education Administrators, Postsecondary",Management,True,False,1,0,0,0.1
+11-9031.00,"Education Administrators, Preschool and Childcare Center/Program",Management,True,False,1,0,0,0.1
+25-1081.00,"Education Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+25-9099.00,"Education, Training, and Library Workers, All Other","Education, Training, and Library",False,False,1,0,0,0.1
+21-1012.00,"Educational, Guidance, School, and Vocational Counselors",Community and Social Service,True,False,1,0,0,0.1
+49-2092.00,"Electric Motor, Power Tool, and Related Repairers","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+17-3023.00,Electrical and Electronic Engineering Technicians,Architecture and Engineering,False,False,1,0,0,0.1
+51-2022.00,Electrical and Electronic Equipment Assemblers,Production,False,True,1,0,0,0.1
+17-3012.00,Electrical and Electronics Drafters,Architecture and Engineering,False,False,1,0,0,0.1
+49-2093.00,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Installation, Maintenance, and Repair",False,True,1,0,0,0.1
+49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+17-3012.02,Electrical Drafters,Architecture and Engineering,False,False,1,0,0,0.1
+17-3023.03,Electrical Engineering Technicians,Architecture and Engineering,False,True,1,0,0,0.1
+17-3029.02,Electrical Engineering Technologists,Architecture and Engineering,False,True,1,0,0,0.1
+17-2071.00,Electrical Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+49-9051.00,Electrical Power-Line Installers and Repairers,"Installation, Maintenance, and Repair",True,True,1,0,0,0.1
+47-2111.00,Electricians,Construction and Extraction,True,True,1,0,0,0.1
+17-3024.00,Electro-Mechanical Technicians,Architecture and Engineering,False,True,1,0,0,0.1
+17-3029.03,Electromechanical Engineering Technologists,Architecture and Engineering,False,True,1,0,0,0.1
+51-2023.00,Electromechanical Equipment Assemblers,Production,False,False,1,0,0,0.1
+17-3012.01,Electronic Drafters,Architecture and Engineering,False,False,1,0,0,0.1
+49-2096.00,"Electronic Equipment Installers and Repairers, Motor Vehicles","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+49-2097.00,Electronic Home Entertainment Equipment Installers and Repairers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+17-3023.01,Electronics Engineering Technicians,Architecture and Engineering,False,True,1,0,0,0.1
+17-3029.04,Electronics Engineering Technologists,Architecture and Engineering,False,True,1,0,0,0.1
+17-2072.00,"Electronics Engineers, Except Computer",Architecture and Engineering,False,True,1,0,0,0.1
+25-2021.00,"Elementary School Teachers, Except Special Education","Education, Training, and Library",True,False,1,0,0,0.1
+47-4021.00,Elevator Installers and Repairers,Construction and Extraction,True,False,1,0,0,0.1
+43-4061.00,"Eligibility Interviewers, Government Programs",Office and Administrative Support,False,False,1,0,0,0.1
+39-4011.00,Embalmers,Personal Care and Service,False,False,1,0,0,0.1
+11-9161.00,Emergency Management Directors,Management,False,False,1,0,0,0.1
+29-2041.00,Emergency Medical Technicians and Paramedics,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+31-9099.02,Endoscopy Technicians,Healthcare Support,True,False,1,0,0,0.1
+13-1199.01,Energy Auditors,Business and Financial Operations,True,True,1,0,0,0.1
+41-3099.01,Energy Brokers,Sales and Related,True,True,1,0,0,0.1
+17-2199.03,Energy Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+51-2031.00,Engine and Other Machine Assemblers,Production,False,True,1,0,0,0.1
+25-1032.00,"Engineering Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+17-3029.00,"Engineering Technicians, Except Drafters, All Other",Architecture and Engineering,False,False,1,0,0,0.1
+17-2199.00,"Engineers, All Other",Architecture and Engineering,False,False,1,0,0,0.1
+25-1123.00,"English Language and Literature Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+27-2099.00,"Entertainers and Performers, Sports and Related Workers, All Other","Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+39-3099.00,"Entertainment Attendants and Related Workers, All Other",Personal Care and Service,False,False,1,0,0,0.1
+13-1041.01,Environmental Compliance Inspectors,Business and Financial Operations,False,False,1,0,0,0.1
+19-3011.01,Environmental Economists,"Life, Physical, and Social Science",True,True,1,0,0,0.1
+17-3025.00,Environmental Engineering Technicians,Architecture and Engineering,True,True,1,0,0,0.1
+17-2081.00,Environmental Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+19-2041.02,Environmental Restoration Planners,"Life, Physical, and Social Science",True,True,1,0,0,0.1
+19-4091.00,"Environmental Science and Protection Technicians, Including Health","Life, Physical, and Social Science",True,True,1,0,0,0.1
+25-1053.00,"Environmental Science Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+19-2041.00,"Environmental Scientists and Specialists, Including Health","Life, Physical, and Social Science",True,True,1,0,0,0.1
+19-1041.00,Epidemiologists,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+13-1041.03,Equal Opportunity Representatives and Officers,Business and Financial Operations,False,False,1,0,0,0.1
+51-9194.00,Etchers and Engravers,Production,False,False,1,0,0,0.1
+53-7032.00,Excavating and Loading Machine and Dragline Operators,Transportation and Material Moving,True,False,1,0,0,0.1
+43-6011.00,Executive Secretaries and Executive Administrative Assistants,Office and Administrative Support,False,False,1,0,0,0.1
+29-1128.00,Exercise Physiologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+47-5031.00,"Explosives Workers, Ordnance Handling Experts, and Blasters",Construction and Extraction,False,False,1,0,0,0.1
+47-5099.00,"Extraction Workers, All Other",Construction and Extraction,True,False,1,0,0,0.1
+51-4021.00,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,1,0,0,0.1
+51-6091.00,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",Production,False,False,1,0,0,0.1
+51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",Production,False,False,1,0,0,0.1
+51-6092.00,Fabric and Apparel Patternmakers,Production,False,False,1,0,0,0.1
+49-9093.00,"Fabric Menders, Except Garment","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+45-4021.00,Fallers,"Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+29-1062.00,Family and General Practitioners,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+25-9021.00,Farm and Home Management Advisors,"Education, Training, and Library",False,True,1,0,0,0.1
+11-9013.02,Farm and Ranch Managers,Management,False,True,1,0,0,0.1
+49-3041.00,Farm Equipment Mechanics and Service Technicians,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+13-1074.00,Farm Labor Contractors,Business and Financial Operations,True,False,1,0,0,0.1
+11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",Management,False,False,1,0,0,0.1
+45-2092.02,"Farmworkers and Laborers, Crop","Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+27-1022.00,Fashion Designers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+47-4031.00,Fence Erectors,Construction and Extraction,True,False,1,0,0,0.1
+51-2091.00,Fiberglass Laminators and Fabricators,Production,False,False,1,0,0,0.1
+43-4071.00,File Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+27-4032.00,Film and Video Editors,"Arts, Design, Entertainment, Sports, and Media",True,False,1,0,0,0.1
+13-2051.00,Financial Analysts,Business and Financial Operations,False,True,1,0,0,0.1
+43-3099.00,"Financial Clerks, All Other",Office and Administrative Support,True,False,1,0,0,0.1
+13-2061.00,Financial Examiners,Business and Financial Operations,True,False,1,0,0,0.1
+11-3031.00,Financial Managers,Management,True,False,1,0,0,0.1
+11-3031.02,"Financial Managers, Branch or Department",Management,True,False,1,0,0,0.1
+13-2099.01,Financial Quantitative Analysts,Business and Financial Operations,False,True,1,0,0,0.1
+13-2099.00,"Financial Specialists, All Other",Business and Financial Operations,False,False,1,0,0,0.1
+27-1013.00,"Fine Artists, Including Painters, Sculptors, and Illustrators","Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+33-2021.01,Fire Inspectors,Protective Service,False,False,1,0,0,0.1
+33-2021.00,Fire Inspectors and Investigators,Protective Service,False,False,1,0,0,0.1
+33-2021.02,Fire Investigators,Protective Service,False,False,1,0,0,0.1
+17-2111.02,Fire-Prevention and Protection Engineers,Architecture and Engineering,False,False,1,0,0,0.1
+33-2011.00,Firefighters,Protective Service,False,False,1,0,0,0.1
+45-1011.07,First-Line Supervisors of Agricultural Crop and Horticultural Workers,"Farming, Fishing, and Forestry",False,True,1,0,0,0.1
+45-1011.08,First-Line Supervisors of Animal Husbandry and Animal Care Workers,"Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+45-1011.06,First-Line Supervisors of Aquacultural Workers,"Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,Construction and Extraction,True,False,1,0,0,0.1
+33-1011.00,First-Line Supervisors of Correctional Officers,Protective Service,False,False,1,0,0,0.1
+45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+33-1021.00,First-Line Supervisors of Fire Fighting and Prevention Workers,Protective Service,False,False,1,0,0,0.1
+35-1012.00,First-Line Supervisors of Food Preparation and Serving Workers,Food Preparation and Serving Related,True,False,1,0,0,0.1
+53-1021.00,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",Transportation and Material Moving,False,False,1,0,0,0.1
+37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,Building and Grounds Cleaning and Maintenance,True,False,1,0,0,0.1
+37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Building and Grounds Cleaning and Maintenance,True,False,1,0,0,0.1
+45-1011.05,First-Line Supervisors of Logging Workers,"Farming, Fishing, and Forestry",False,True,1,0,0,0.1
+49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers","Installation, Maintenance, and Repair",False,True,1,0,0,0.1
+41-1012.00,First-Line Supervisors of Non-Retail Sales Workers,Sales and Related,False,False,1,0,0,0.1
+43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,Office and Administrative Support,True,False,1,0,0,0.1
+39-1021.00,First-Line Supervisors of Personal Service Workers,Personal Care and Service,True,False,1,0,0,0.1
+33-1012.00,First-Line Supervisors of Police and Detectives,Protective Service,False,False,1,0,0,0.1
+51-1011.00,First-Line Supervisors of Production and Operating Workers,Production,False,True,1,0,0,0.1
+33-1099.00,"First-Line Supervisors of Protective Service Workers, All Other",Protective Service,False,False,1,0,0,0.1
+41-1011.00,First-Line Supervisors of Retail Sales Workers,Sales and Related,True,False,1,0,0,0.1
+53-1031.00,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,Transportation and Material Moving,False,False,1,0,0,0.1
+33-3031.00,Fish and Game Wardens,Protective Service,False,True,1,0,0,0.1
+45-3011.00,Fishers and Related Fishing Workers,"Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+11-9039.02,Fitness and Wellness Coordinators,Management,True,False,1,0,0,0.1
+39-9031.00,Fitness Trainers and Aerobics Instructors,Personal Care and Service,True,False,1,0,0,0.1
+53-2031.00,Flight Attendants,Transportation and Material Moving,True,False,1,0,0,0.1
+47-2042.00,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Construction and Extraction,True,False,1,0,0,0.1
+47-2043.00,Floor Sanders and Finishers,Construction and Extraction,True,False,1,0,0,0.1
+27-1023.00,Floral Designers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+51-3091.00,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",Production,False,False,1,0,0,0.1
+51-3092.00,Food Batchmakers,Production,False,False,1,0,0,0.1
+51-3093.00,Food Cooking Machine Operators and Tenders,Production,False,False,1,0,0,0.1
+35-9099.00,"Food Preparation and Serving Related Workers, All Other",Food Preparation and Serving Related,True,False,1,0,0,0.1
+35-2021.00,Food Preparation Workers,Food Preparation and Serving Related,True,False,1,0,0,0.1
+51-3099.00,"Food Processing Workers, All Other",Production,False,False,1,0,0,0.1
+19-4011.02,Food Science Technicians,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+19-1012.00,Food Scientists and Technologists,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+35-3041.00,"Food Servers, Nonrestaurant",Food Preparation and Serving Related,True,False,1,0,0,0.1
+11-9051.00,Food Service Managers,Management,True,False,1,0,0,0.1
+25-1124.00,"Foreign Language and Literature Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+19-4092.00,Forensic Science Technicians,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+19-4093.00,Forest and Conservation Technicians,"Life, Physical, and Social Science",False,True,1,0,0,0.1
+45-4011.00,Forest and Conservation Workers,"Farming, Fishing, and Forestry",False,True,1,0,0,0.1
+33-1021.02,Forest Fire Fighting and Prevention Supervisors,Protective Service,False,False,1,0,0,0.1
+33-2022.00,Forest Fire Inspectors and Prevention Specialists,Protective Service,True,False,1,0,0,0.1
+33-2011.02,Forest Firefighters,Protective Service,False,False,1,0,0,0.1
+19-1032.00,Foresters,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+51-4022.00,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,1,0,0,0.1
+51-4071.00,Foundry Mold and Coremakers,Production,False,False,1,0,0,0.1
+13-2099.04,"Fraud Examiners, Investigators and Analysts",Business and Financial Operations,False,False,1,0,0,0.1
+53-6051.08,Freight and Cargo Inspectors,Transportation and Material Moving,False,False,1,0,0,0.1
+43-5011.01,Freight Forwarders,Office and Administrative Support,True,True,1,0,0,0.1
+17-2141.01,Fuel Cell Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+17-3029.10,Fuel Cell Technicians,Architecture and Engineering,False,True,1,0,0,0.1
+13-1131.00,Fundraisers,Business and Financial Operations,True,False,1,0,0,0.1
+39-4021.00,Funeral Attendants,Personal Care and Service,False,False,1,0,0,0.1
+11-9061.00,Funeral Service Managers,Management,False,False,1,0,0,0.1
+51-9051.00,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",Production,False,False,1,0,0,0.1
+51-7021.00,Furniture Finishers,Production,False,False,1,0,0,0.1
+39-3012.00,Gaming and Sports Book Writers and Runners,Personal Care and Service,False,False,1,0,0,0.1
+43-3041.00,Gaming Cage Workers,Office and Administrative Support,False,False,1,0,0,0.1
+41-2012.00,Gaming Change Persons and Booth Cashiers,Sales and Related,False,False,1,0,0,0.1
+39-3011.00,Gaming Dealers,Personal Care and Service,False,False,1,0,0,0.1
+11-9071.00,Gaming Managers,Management,True,False,1,0,0,0.1
+39-3019.00,"Gaming Service Workers, All Other",Personal Care and Service,False,False,1,0,0,0.1
+39-1011.00,Gaming Supervisors,Personal Care and Service,True,False,1,0,0,0.1
+33-9031.00,Gaming Surveillance Officers and Gaming Investigators,Protective Service,False,False,1,0,0,0.1
+53-7071.00,Gas Compressor and Gas Pumping Station Operators,Transportation and Material Moving,False,False,1,0,0,0.1
+51-8092.00,Gas Plant Operators,Production,False,False,1,0,0,0.1
+51-9071.06,Gem and Diamond Workers,Production,False,False,1,0,0,0.1
+11-1021.00,General and Operations Managers,Management,True,True,1,0,0,0.1
+29-9092.00,Genetic Counselors,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+19-1029.03,Geneticists,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+17-1022.01,Geodetic Surveyors,Architecture and Engineering,False,False,1,0,0,0.1
+19-3092.00,Geographers,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+15-1199.05,Geographic Information Systems Technicians,Computer and Mathematical,True,True,1,0,0,0.1
+25-1064.00,"Geography Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+19-4041.00,Geological and Petroleum Technicians,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+19-4041.02,Geological Sample Test Technicians,"Life, Physical, and Social Science",True,True,1,0,0,0.1
+19-4041.01,Geophysical Data Technicians,"Life, Physical, and Social Science",True,True,1,0,0,0.1
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers","Life, Physical, and Social Science",False,True,1,0,0,0.1
+15-1199.04,Geospatial Information Scientists and Technologists,Computer and Mathematical,True,True,1,0,0,0.1
+11-3051.02,Geothermal Production Managers,Management,False,True,1,0,0,0.1
+49-9099.01,Geothermal Technicians,"Installation, Maintenance, and Repair",False,True,1,0,0,0.1
+51-9195.04,"Glass Blowers, Molders, Benders, and Finishers",Production,False,False,1,0,0,0.1
+47-2121.00,Glaziers,Construction and Extraction,True,False,1,0,0,0.1
+13-1041.04,Government Property Inspectors and Investigators,Business and Financial Operations,False,False,1,0,0,0.1
+45-2041.00,"Graders and Sorters, Agricultural Products","Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+25-1191.00,Graduate Teaching Assistants,"Education, Training, and Library",False,False,1,0,0,0.1
+27-1024.00,Graphic Designers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+11-2011.01,Green Marketers,Management,False,True,1,0,0,0.1
+51-9022.00,"Grinding and Polishing Workers, Hand",Production,False,False,1,0,0,0.1
+51-4033.00,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,1,0,0,0.1
+37-3019.00,"Grounds Maintenance Workers, All Other",Building and Grounds Cleaning and Maintenance,False,False,1,0,0,0.1
+39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists",Personal Care and Service,True,False,1,0,0,0.1
+47-4041.00,Hazardous Materials Removal Workers,Construction and Extraction,True,True,1,0,0,0.1
+17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Architecture and Engineering,False,False,1,0,0,0.1
+29-1199.00,"Health Diagnosing and Treating Practitioners, All Other",Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+21-1091.00,Health Educators,Community and Social Service,True,False,1,0,0,0.1
+25-1071.00,"Health Specialties Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+29-2099.00,"Health Technologists and Technicians, All Other",Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-9099.00,"Healthcare Practitioners and Technical Workers, All Other",Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+21-1022.00,Healthcare Social Workers,Community and Social Service,True,False,1,0,0,0.1
+31-9099.00,"Healthcare Support Workers, All Other",Healthcare Support,True,False,1,0,0,0.1
+29-2092.00,Hearing Aid Specialists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+51-4191.00,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,1,0,0,0.1
+49-9021.01,Heating and Air Conditioning Mechanics and Installers,"Installation, Maintenance, and Repair",True,True,1,0,0,0.1
+49-9021.00,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Installation, Maintenance, and Repair",True,False,1,0,0,0.1
+53-3032.00,Heavy and Tractor-Trailer Truck Drivers,Transportation and Material Moving,True,True,1,0,0,0.1
+47-3019.00,"Helpers, Construction Trades, All Other",Construction and Extraction,True,False,1,0,0,0.1
+47-3011.00,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Construction and Extraction,True,False,1,0,0,0.1
+47-3012.00,Helpers--Carpenters,Construction and Extraction,True,True,1,0,0,0.1
+47-3013.00,Helpers--Electricians,Construction and Extraction,True,False,1,0,0,0.1
+47-5081.00,Helpers--Extraction Workers,Construction and Extraction,True,False,1,0,0,0.1
+49-9098.00,"Helpers--Installation, Maintenance, and Repair Workers","Installation, Maintenance, and Repair",True,True,1,0,0,0.1
+47-3014.00,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Construction and Extraction,False,False,1,0,0,0.1
+47-3015.00,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Construction and Extraction,True,False,1,0,0,0.1
+51-9198.00,Helpers--Production Workers,Production,True,False,1,0,0,0.1
+47-3016.00,Helpers--Roofers,Construction and Extraction,True,False,1,0,0,0.1
+47-4051.00,Highway Maintenance Workers,Construction and Extraction,False,False,1,0,0,0.1
+19-3093.00,Historians,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+25-1125.00,"History Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+29-2011.03,Histotechnologists and Histologic Technicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+53-7041.00,Hoist and Winch Operators,Transportation and Material Moving,False,False,1,0,0,0.1
+49-9031.00,Home Appliance Repairers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+25-1192.00,"Home Economics Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+31-1011.00,Home Health Aides,Healthcare Support,True,False,1,0,0,0.1
+29-1069.03,Hospitalists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Food Preparation and Serving Related,True,False,1,0,0,0.1
+43-4081.00,"Hotel, Motel, and Resort Desk Clerks",Office and Administrative Support,False,False,1,0,0,0.1
+17-2112.01,Human Factors Engineers and Ergonomists,Architecture and Engineering,True,False,1,0,0,0.1
+43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping",Office and Administrative Support,False,False,1,0,0,0.1
+11-3121.00,Human Resources Managers,Management,True,False,1,0,0,0.1
+13-1071.00,Human Resources Specialists,Business and Financial Operations,False,False,1,0,0,0.1
+45-3021.00,Hunters and Trappers,"Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+51-8099.04,Hydroelectric Plant Technicians,Production,False,True,1,0,0,0.1
+11-3051.06,Hydroelectric Production Managers,Management,False,True,1,0,0,0.1
+19-2043.00,Hydrologists,"Life, Physical, and Social Science",True,True,1,0,0,0.1
+33-3021.05,Immigration and Customs Inspectors,Protective Service,False,False,1,0,0,0.1
+19-2041.03,Industrial Ecologists,"Life, Physical, and Social Science",True,True,1,0,0,0.1
+17-3026.00,Industrial Engineering Technicians,Architecture and Engineering,False,True,1,0,0,0.1
+17-3029.05,Industrial Engineering Technologists,Architecture and Engineering,False,True,1,0,0,0.1
+17-2112.00,Industrial Engineers,Architecture and Engineering,True,True,1,0,0,0.1
+49-9041.00,Industrial Machinery Mechanics,"Installation, Maintenance, and Repair",False,True,1,0,0,0.1
+11-3051.00,Industrial Production Managers,Management,False,True,1,0,0,0.1
+17-2111.01,Industrial Safety and Health Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+53-7051.00,Industrial Truck and Tractor Operators,Transportation and Material Moving,False,True,1,0,0,0.1
+19-3032.00,Industrial-Organizational Psychologists,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+15-1121.01,Informatics Nurse Specialists,Computer and Mathematical,True,False,1,0,0,0.1
+43-4199.00,"Information and Record Clerks, All Other",Office and Administrative Support,False,False,1,0,0,0.1
+15-1122.00,Information Security Analysts,Computer and Mathematical,True,False,1,0,0,0.1
+15-1199.09,Information Technology Project Managers,Computer and Mathematical,True,False,1,0,0,0.1
+51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",Production,False,True,1,0,0,0.1
+49-9099.00,"Installation, Maintenance, and Repair Workers, All Other","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+25-9031.00,Instructional Coordinators,"Education, Training, and Library",False,False,1,0,0,0.1
+25-9031.01,Instructional Designers and Technologists,"Education, Training, and Library",False,False,1,0,0,0.1
+47-2131.00,"Insulation Workers, Floor, Ceiling, and Wall",Construction and Extraction,False,True,1,0,0,0.1
+47-2132.00,"Insulation Workers, Mechanical",Construction and Extraction,True,False,1,0,0,0.1
+13-1031.02,"Insurance Adjusters, Examiners, and Investigators",Business and Financial Operations,False,False,1,0,0,0.1
+13-1032.00,"Insurance Appraisers, Auto Damage",Business and Financial Operations,False,False,1,0,0,0.1
+43-9041.00,Insurance Claims and Policy Processing Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+43-9041.01,Insurance Claims Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+43-9041.02,Insurance Policy Processing Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+41-3021.00,Insurance Sales Agents,Sales and Related,True,False,1,0,0,0.1
+13-2053.00,Insurance Underwriters,Business and Financial Operations,False,False,1,0,0,0.1
+33-3021.06,Intelligence Analysts,Protective Service,False,False,1,0,0,0.1
+27-1025.00,Interior Designers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+29-1063.00,"Internists, General",Healthcare Practitioners and Technical,False,False,1,0,0,0.1
+27-3091.00,Interpreters and Translators,"Arts, Design, Entertainment, Sports, and Media",True,False,1,0,0,0.1
+43-4111.00,"Interviewers, Except Eligibility and Loan",Office and Administrative Support,False,False,1,0,0,0.1
+11-9199.03,Investment Fund Managers,Management,False,False,1,0,0,0.1
+13-2099.03,Investment Underwriters,Business and Financial Operations,False,True,1,0,0,0.1
+37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Building and Grounds Cleaning and Maintenance,True,False,1,0,0,0.1
+51-9071.01,Jewelers,Production,False,False,1,0,0,0.1
+51-9071.00,Jewelers and Precious Stone and Metal Workers,Production,False,False,1,0,0,0.1
+23-1023.00,"Judges, Magistrate Judges, and Magistrates",Legal,False,False,1,0,0,0.1
+23-1012.00,Judicial Law Clerks,Legal,False,False,1,0,0,0.1
+25-2012.00,"Kindergarten Teachers, Except Special Education","Education, Training, and Library",False,False,1,0,0,0.1
+13-1075.00,Labor Relations Specialists,Business and Financial Operations,False,False,1,0,0,0.1
+53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",Transportation and Material Moving,True,True,1,0,0,0.1
+17-1012.00,Landscape Architects,Architecture and Engineering,False,True,1,0,0,0.1
+37-3011.00,Landscaping and Groundskeeping Workers,Building and Grounds Cleaning and Maintenance,True,False,1,0,0,0.1
+51-4034.00,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,1,0,0,0.1
+51-6011.00,Laundry and Dry-Cleaning Workers,Production,False,False,1,0,0,0.1
+25-1112.00,"Law Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+23-1011.00,Lawyers,Legal,False,False,1,0,0,0.1
+51-4192.00,"Layout Workers, Metal and Plastic",Production,False,False,1,0,0,0.1
+43-6012.00,Legal Secretaries,Office and Administrative Support,False,False,1,0,0,0.1
+23-2099.00,"Legal Support Workers, All Other",Legal,False,False,1,0,0,0.1
+11-1031.00,Legislators,Management,False,False,1,0,0,0.1
+25-4021.00,Librarians,"Education, Training, and Library",False,False,1,0,0,0.1
+43-4121.00,"Library Assistants, Clerical",Office and Administrative Support,False,False,1,0,0,0.1
+25-1082.00,"Library Science Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+25-4031.00,Library Technicians,"Education, Training, and Library",False,False,1,0,0,0.1
+43-4031.03,License Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+29-2061.00,Licensed Practical and Licensed Vocational Nurses,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+13-1041.02,Licensing Examiners and Inspectors,Business and Financial Operations,False,False,1,0,0,0.1
+19-1099.00,"Life Scientists, All Other","Life, Physical, and Social Science",False,False,1,0,0,0.1
+19-4099.00,"Life, Physical, and Social Science Technicians, All Other","Life, Physical, and Social Science",True,False,1,0,0,0.1
+33-9092.00,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Protective Service,True,False,1,0,0,0.1
+53-3033.00,Light Truck or Delivery Services Drivers,Transportation and Material Moving,True,False,1,0,0,0.1
+53-7033.00,"Loading Machine Operators, Underground Mining",Transportation and Material Moving,False,False,1,0,0,0.1
+13-2071.01,Loan Counselors,Business and Financial Operations,True,False,1,0,0,0.1
+43-4131.00,Loan Interviewers and Clerks,Office and Administrative Support,True,False,1,0,0,0.1
+13-2072.00,Loan Officers,Business and Financial Operations,True,False,1,0,0,0.1
+39-3093.00,"Locker Room, Coatroom, and Dressing Room Attendants",Personal Care and Service,True,False,1,0,0,0.1
+49-9094.00,Locksmiths and Safe Repairers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+53-4011.00,Locomotive Engineers,Transportation and Material Moving,False,True,1,0,0,0.1
+53-4012.00,Locomotive Firers,Transportation and Material Moving,False,False,1,0,0,0.1
+11-9081.00,Lodging Managers,Management,False,False,1,0,0,0.1
+45-4023.00,Log Graders and Scalers,"Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+45-4022.00,Logging Equipment Operators,"Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+45-4029.00,"Logging Workers, All Other","Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+13-1081.00,Logisticians,Business and Financial Operations,False,False,1,0,0,0.1
+13-1081.02,Logistics Analysts,Business and Financial Operations,False,True,1,0,0,0.1
+13-1081.01,Logistics Engineers,Business and Financial Operations,False,True,1,0,0,0.1
+11-3071.03,Logistics Managers,Management,False,True,1,0,0,0.1
+11-9199.08,Loss Prevention Managers,Management,False,False,1,0,0,0.1
+29-1122.01,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+53-7063.00,Machine Feeders and Offbearers,Transportation and Material Moving,False,False,1,0,0,0.1
+51-4041.00,Machinists,Production,False,True,1,0,0,0.1
+29-2035.00,Magnetic Resonance Imaging Technologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+37-2012.00,Maids and Housekeeping Cleaners,Building and Grounds Cleaning and Maintenance,True,False,1,0,0,0.1
+43-9051.00,"Mail Clerks and Mail Machine Operators, Except Postal Service",Office and Administrative Support,False,False,1,0,0,0.1
+49-9071.00,"Maintenance and Repair Workers, General","Installation, Maintenance, and Repair",True,True,1,0,0,0.1
+49-9043.00,"Maintenance Workers, Machinery","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+39-5091.00,"Makeup Artists, Theatrical and Performance",Personal Care and Service,True,False,1,0,0,0.1
+13-1111.00,Management Analysts,Business and Financial Operations,True,False,1,0,0,0.1
+11-9199.00,"Managers, All Other",Management,False,False,1,0,0,0.1
+39-5092.00,Manicurists and Pedicurists,Personal Care and Service,True,False,1,0,0,0.1
+49-9095.00,Manufactured Building and Mobile Home Installers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+17-3029.06,Manufacturing Engineering Technologists,Architecture and Engineering,False,True,1,0,0,0.1
+17-2199.04,Manufacturing Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+17-3029.09,Manufacturing Production Technicians,Architecture and Engineering,False,True,1,0,0,0.1
+17-3031.02,Mapping Technicians,Architecture and Engineering,False,False,1,0,0,0.1
+17-2121.02,Marine Architects,Architecture and Engineering,True,False,1,0,0,0.1
+17-2121.01,Marine Engineers,Architecture and Engineering,True,False,1,0,0,0.1
+17-2121.00,Marine Engineers and Naval Architects,Architecture and Engineering,True,False,1,0,0,0.1
+13-1161.00,Market Research Analysts and Marketing Specialists,Business and Financial Operations,True,False,1,0,0,0.1
+11-2021.00,Marketing Managers,Management,True,True,1,0,0,0.1
+43-5081.02,Marking Clerks,Office and Administrative Support,True,False,1,0,0,0.1
+21-1013.00,Marriage and Family Therapists,Community and Social Service,True,False,1,0,0,0.1
+31-9011.00,Massage Therapists,Healthcare Support,True,False,1,0,0,0.1
+53-7199.00,"Material Moving Workers, All Other",Transportation and Material Moving,False,False,1,0,0,0.1
+17-2131.00,Materials Engineers,Architecture and Engineering,False,False,1,0,0,0.1
+19-2032.00,Materials Scientists,"Life, Physical, and Social Science",False,True,1,0,0,0.1
+53-5021.02,"Mates- Ship, Boat, and Barge",Transportation and Material Moving,False,False,1,0,0,0.1
+15-2099.00,"Mathematical Science Occupations, All Other",Computer and Mathematical,False,False,1,0,0,0.1
+25-1022.00,"Mathematical Science Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+15-2091.00,Mathematical Technicians,Computer and Mathematical,False,False,1,0,0,0.1
+15-2021.00,Mathematicians,Computer and Mathematical,True,False,1,0,0,0.1
+51-3022.00,"Meat, Poultry, and Fish Cutters and Trimmers",Production,False,False,1,0,0,0.1
+49-9011.00,Mechanical Door Repairers,"Installation, Maintenance, and Repair",True,False,1,0,0,0.1
+17-3013.00,Mechanical Drafters,Architecture and Engineering,False,False,1,0,0,0.1
+17-3027.00,Mechanical Engineering Technicians,Architecture and Engineering,False,False,1,0,0,0.1
+17-3029.07,Mechanical Engineering Technologists,Architecture and Engineering,False,True,1,0,0,0.1
+17-2141.00,Mechanical Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+17-2199.05,Mechatronics Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+27-4099.00,"Media and Communication Equipment Workers, All Other","Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+27-3099.00,"Media and Communication Workers, All Other","Arts, Design, Entertainment, Sports, and Media",True,False,1,0,0,0.1
+29-2012.00,Medical and Clinical Laboratory Technicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-2011.00,Medical and Clinical Laboratory Technologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+11-9111.00,Medical and Health Services Managers,Management,True,False,1,0,0,0.1
+51-9082.00,Medical Appliance Technicians,Production,True,False,1,0,0,0.1
+31-9092.00,Medical Assistants,Healthcare Support,True,False,1,0,0,0.1
+31-9093.00,Medical Equipment Preparers,Healthcare Support,True,False,1,0,0,0.1
+49-9062.00,Medical Equipment Repairers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+29-2071.00,Medical Records and Health Information Technicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+19-1042.00,"Medical Scientists, Except Epidemiologists","Life, Physical, and Social Science",True,False,1,0,0,0.1
+43-6013.00,Medical Secretaries,Office and Administrative Support,True,False,1,0,0,0.1
+31-9094.00,Medical Transcriptionists,Healthcare Support,False,False,1,0,0,0.1
+13-1121.00,"Meeting, Convention, and Event Planners",Business and Financial Operations,True,False,1,0,0,0.1
+21-1023.00,Mental Health and Substance Abuse Social Workers,Community and Social Service,True,False,1,0,0,0.1
+21-1014.00,Mental Health Counselors,Community and Social Service,True,False,1,0,0,0.1
+27-1026.00,Merchandise Displayers and Window Trimmers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+51-4199.00,"Metal Workers and Plastic Workers, All Other",Production,False,False,1,0,0,0.1
+51-4051.00,Metal-Refining Furnace Operators and Tenders,Production,False,False,1,0,0,0.1
+43-5041.00,"Meter Readers, Utilities",Office and Administrative Support,False,False,1,0,0,0.1
+11-3051.05,Methane/Landfill Gas Collection System Operators,Management,False,True,1,0,0,0.1
+51-8099.02,Methane/Landfill Gas Generation System Technicians,Production,False,True,1,0,0,0.1
+19-1022.00,Microbiologists,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+17-2199.06,Microsystems Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+25-2022.00,"Middle School Teachers, Except Special and Career/Technical Education","Education, Training, and Library",False,False,1,0,0,0.1
+29-9099.01,Midwives,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+51-4035.00,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,1,0,0,0.1
+49-9044.00,Millwrights,"Installation, Maintenance, and Repair",True,True,1,0,0,0.1
+47-5042.00,Mine Cutting and Channeling Machine Operators,Construction and Extraction,False,False,1,0,0,0.1
+53-7111.00,Mine Shuttle Car Operators,Transportation and Material Moving,False,False,1,0,0,0.1
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",Architecture and Engineering,False,False,1,0,0,0.1
+47-5049.00,"Mining Machine Operators, All Other",Construction and Extraction,False,False,1,0,0,0.1
+51-9023.00,"Mixing and Blending Machine Setters, Operators, and Tenders",Production,False,True,1,0,0,0.1
+49-3042.00,"Mobile Heavy Equipment Mechanics, Except Engines","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+51-4061.00,"Model Makers, Metal and Plastic",Production,False,False,1,0,0,0.1
+51-7031.00,"Model Makers, Wood",Production,False,False,1,0,0,0.1
+41-9012.00,Models,Sales and Related,False,False,1,0,0,0.1
+51-9195.00,"Molders, Shapers, and Casters, Except Metal and Plastic",Production,False,False,1,0,0,0.1
+51-9195.07,Molding and Casting Workers,Production,False,False,1,0,0,0.1
+51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,1,0,0,0.1
+19-1029.02,Molecular and Cellular Biologists,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+39-4031.00,"Morticians, Undertakers, and Funeral Directors",Personal Care and Service,False,False,1,0,0,0.1
+39-3021.00,Motion Picture Projectionists,Personal Care and Service,False,False,1,0,0,0.1
+53-3099.00,"Motor Vehicle Operators, All Other",Transportation and Material Moving,True,False,1,0,0,0.1
+49-3051.00,Motorboat Mechanics and Service Technicians,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+53-5022.00,Motorboat Operators,Transportation and Material Moving,False,False,1,0,0,0.1
+49-3052.00,Motorcycle Mechanics,"Installation, Maintenance, and Repair",True,False,1,0,0,0.1
+27-1014.00,Multimedia Artists and Animators,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+51-4081.00,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,1,0,0,0.1
+43-4031.02,Municipal Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+33-1021.01,Municipal Fire Fighting and Prevention Supervisors,Protective Service,False,False,1,0,0,0.1
+33-2011.01,Municipal Firefighters,Protective Service,False,False,1,0,0,0.1
+25-4013.00,Museum Technicians and Conservators,"Education, Training, and Library",True,False,1,0,0,0.1
+27-2041.04,Music Composers and Arrangers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+27-2041.01,Music Directors,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+27-2041.00,Music Directors and Composers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+29-1125.02,Music Therapists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+49-9063.00,Musical Instrument Repairers and Tuners,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+27-2042.00,Musicians and Singers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+27-2042.02,"Musicians, Instrumental","Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+39-9011.01,Nannies,Personal Care and Service,True,False,1,0,0,0.1
+17-2199.09,Nanosystems Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+17-3029.12,Nanotechnology Engineering Technicians,Architecture and Engineering,False,True,1,0,0,0.1
+17-3029.11,Nanotechnology Engineering Technologists,Architecture and Engineering,False,True,1,0,0,0.1
+11-9121.00,Natural Sciences Managers,Management,False,True,1,0,0,0.1
+29-1199.04,Naturopathic Physicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+15-1142.00,Network and Computer Systems Administrators,Computer and Mathematical,False,False,1,0,0,0.1
+29-2099.01,Neurodiagnostic Technologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1069.04,Neurologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+19-3039.01,Neuropsychologists and Clinical Neuropsychologists,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+43-4141.00,New Accounts Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+17-3029.01,Non-Destructive Testing Specialists,Architecture and Engineering,False,False,1,0,0,0.1
+39-2021.00,Nonfarm Animal Caretakers,Personal Care and Service,True,False,1,0,0,0.1
+17-2161.00,Nuclear Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+19-4051.01,Nuclear Equipment Operation Technicians,"Life, Physical, and Social Science",False,True,1,0,0,0.1
+29-1069.05,Nuclear Medicine Physicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-2033.00,Nuclear Medicine Technologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+19-4051.02,Nuclear Monitoring Technicians,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+51-8011.00,Nuclear Power Reactor Operators,Production,False,True,1,0,0,0.1
+19-4051.00,Nuclear Technicians,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+29-1151.00,Nurse Anesthetists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1161.00,Nurse Midwives,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1171.00,Nurse Practitioners,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+11-9013.01,Nursery and Greenhouse Managers,Management,False,False,1,0,0,0.1
+45-2092.01,Nursery Workers,"Farming, Fishing, and Forestry",False,False,1,0,0,0.1
+31-1014.00,Nursing Assistants,Healthcare Support,True,False,1,0,0,0.1
+25-1072.00,"Nursing Instructors and Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+29-1064.00,Obstetricians and Gynecologists,Healthcare Practitioners and Technical,False,False,1,0,0,0.1
+29-9011.00,Occupational Health and Safety Specialists,Healthcare Practitioners and Technical,False,True,1,0,0,0.1
+29-9012.00,Occupational Health and Safety Technicians,Healthcare Practitioners and Technical,True,True,1,0,0,0.1
+29-1122.00,Occupational Therapists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+31-2012.00,Occupational Therapy Aides,Healthcare Support,True,False,1,0,0,0.1
+31-2011.00,Occupational Therapy Assistants,Healthcare Support,True,False,1,0,0,0.1
+43-9199.00,"Office and Administrative Support Workers, All Other",Office and Administrative Support,False,False,1,0,0,0.1
+43-9061.00,"Office Clerks, General",Office and Administrative Support,True,False,1,0,0,0.1
+43-9071.00,"Office Machine Operators, Except Computer",Office and Administrative Support,False,False,1,0,0,0.1
+13-1199.06,Online Merchants,Business and Financial Operations,True,False,1,0,0,0.1
+47-2073.00,Operating Engineers and Other Construction Equipment Operators,Construction and Extraction,True,True,1,0,0,0.1
+15-2031.00,Operations Research Analysts,Computer and Mathematical,True,False,1,0,0,0.1
+51-9083.00,Ophthalmic Laboratory Technicians,Production,True,False,1,0,0,0.1
+29-2057.00,Ophthalmic Medical Technicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-2099.05,Ophthalmic Medical Technologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1069.06,Ophthalmologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-2081.00,"Opticians, Dispensing",Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1041.00,Optometrists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1022.00,Oral and Maxillofacial Surgeons,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+43-4151.00,Order Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+43-5081.04,"Order Fillers, Wholesale and Retail Sales",Office and Administrative Support,True,False,1,0,0,0.1
+31-1015.00,Orderlies,Healthcare Support,False,False,1,0,0,0.1
+29-1023.00,Orthodontists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1199.05,Orthoptists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-2091.00,Orthotists and Prosthetists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+49-3053.00,Outdoor Power Equipment and Other Small Engine Mechanics,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+51-9111.00,Packaging and Filling Machine Operators and Tenders,Production,False,False,1,0,0,0.1
+53-7064.00,"Packers and Packagers, Hand",Transportation and Material Moving,False,False,1,0,0,0.1
+47-2141.00,"Painters, Construction and Maintenance",Construction and Extraction,False,False,1,0,0,0.1
+51-9122.00,"Painters, Transportation Equipment",Production,False,False,1,0,0,0.1
+51-9123.00,"Painting, Coating, and Decorating Workers",Production,False,False,1,0,0,0.1
+51-9196.00,"Paper Goods Machine Setters, Operators, and Tenders",Production,False,False,1,0,0,0.1
+47-2142.00,Paperhangers,Construction and Extraction,False,False,1,0,0,0.1
+23-2011.00,Paralegals and Legal Assistants,Legal,True,False,1,0,0,0.1
+19-1031.03,Park Naturalists,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+33-3041.00,Parking Enforcement Workers,Protective Service,False,False,1,0,0,0.1
+53-6021.00,Parking Lot Attendants,Transportation and Material Moving,False,False,1,0,0,0.1
+41-2022.00,Parts Salespersons,Sales and Related,False,False,1,0,0,0.1
+29-1069.07,Pathologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+43-4051.03,Patient Representatives,Office and Administrative Support,True,False,1,0,0,0.1
+51-4062.00,"Patternmakers, Metal and Plastic",Production,False,False,1,0,0,0.1
+51-7032.00,"Patternmakers, Wood",Production,False,False,1,0,0,0.1
+47-2071.00,"Paving, Surfacing, and Tamping Equipment Operators",Construction and Extraction,True,False,1,0,0,0.1
+43-3051.00,Payroll and Timekeeping Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+29-1065.00,"Pediatricians, General",Healthcare Practitioners and Technical,False,False,1,0,0,0.1
+39-9021.00,Personal Care Aides,Personal Care and Service,True,False,1,0,0,0.1
+39-9099.00,"Personal Care and Service Workers, All Other",Personal Care and Service,True,False,1,0,0,0.1
+13-2052.00,Personal Financial Advisors,Business and Financial Operations,True,True,1,0,0,0.1
+37-2021.00,Pest Control Workers,Building and Grounds Cleaning and Maintenance,True,False,1,0,0,0.1
+37-3012.00,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",Building and Grounds Cleaning and Maintenance,True,False,1,0,0,0.1
+17-2171.00,Petroleum Engineers,Architecture and Engineering,False,False,1,0,0,0.1
+51-8093.00,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Production,False,False,1,0,0,0.1
+29-1051.00,Pharmacists,Healthcare Practitioners and Technical,False,False,1,0,0,0.1
+31-9095.00,Pharmacy Aides,Healthcare Support,False,False,1,0,0,0.1
+29-2052.00,Pharmacy Technicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+25-1126.00,"Philosophy and Religion Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+31-9097.00,Phlebotomists,Healthcare Support,True,False,1,0,0,0.1
+27-4021.00,Photographers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+51-9151.00,Photographic Process Workers and Processing Machine Operators,Production,False,False,1,0,0,0.1
+17-2199.07,Photonics Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+17-3029.08,Photonics Technicians,Architecture and Engineering,False,True,1,0,0,0.1
+29-1069.08,Physical Medicine and Rehabilitation Physicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+19-2099.00,"Physical Scientists, All Other","Life, Physical, and Social Science",False,False,1,0,0,0.1
+31-2022.00,Physical Therapist Aides,Healthcare Support,True,False,1,0,0,0.1
+31-2021.00,Physical Therapist Assistants,Healthcare Support,True,False,1,0,0,0.1
+29-1123.00,Physical Therapists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1071.00,Physician Assistants,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1069.00,"Physicians and Surgeons, All Other",Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+19-2012.00,Physicists,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+25-1054.00,"Physics Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+47-2072.00,Pile-Driver Operators,Construction and Extraction,True,False,1,0,0,0.1
+53-5021.03,"Pilots, Ship",Transportation and Material Moving,False,False,1,0,0,0.1
+47-2152.01,Pipe Fitters and Steamfitters,Construction and Extraction,True,True,1,0,0,0.1
+47-2151.00,Pipelayers,Construction and Extraction,True,False,1,0,0,0.1
+51-8099.00,"Plant and System Operators, All Other",Production,False,False,1,0,0,0.1
+47-2161.00,Plasterers and Stucco Masons,Construction and Extraction,False,False,1,0,0,0.1
+51-4193.00,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,1,0,0,0.1
+47-2152.02,Plumbers,Construction and Extraction,True,True,1,0,0,0.1
+47-2152.00,"Plumbers, Pipefitters, and Steamfitters",Construction and Extraction,True,False,1,0,0,0.1
+29-1081.00,Podiatrists,Healthcare Practitioners and Technical,False,False,1,0,0,0.1
+27-3043.05,"Poets, Lyricists and Creative Writers","Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+33-3051.00,Police and Sheriff's Patrol Officers,Protective Service,False,False,1,0,0,0.1
+33-3021.01,Police Detectives,Protective Service,False,False,1,0,0,0.1
+33-3021.02,Police Identification and Records Officers,Protective Service,False,False,1,0,0,0.1
+33-3051.01,Police Patrol Officers,Protective Service,False,False,1,0,0,0.1
+43-5031.00,"Police, Fire, and Ambulance Dispatchers",Office and Administrative Support,False,False,1,0,0,0.1
+25-1065.00,"Political Science Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+19-3094.00,Political Scientists,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+43-5051.00,Postal Service Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+43-5052.00,Postal Service Mail Carriers,Office and Administrative Support,False,False,1,0,0,0.1
+43-5053.00,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",Office and Administrative Support,False,False,1,0,0,0.1
+11-9131.00,Postmasters and Mail Superintendents,Management,False,False,1,0,0,0.1
+25-1199.00,"Postsecondary Teachers, All Other","Education, Training, and Library",False,False,1,0,0,0.1
+51-9195.05,"Potters, Manufacturing",Production,False,False,1,0,0,0.1
+51-4052.00,"Pourers and Casters, Metal",Production,False,False,1,0,0,0.1
+51-8012.00,Power Distributors and Dispatchers,Production,False,True,1,0,0,0.1
+51-8013.00,Power Plant Operators,Production,False,True,1,0,0,0.1
+51-9071.07,Precious Metal Workers,Production,False,False,1,0,0,0.1
+19-4099.02,Precision Agriculture Technicians,"Life, Physical, and Social Science",True,True,1,0,0,0.1
+49-9069.00,"Precision Instrument and Equipment Repairers, All Other","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+51-5111.00,Prepress Technicians and Workers,Production,False,False,1,0,0,0.1
+25-2011.00,"Preschool Teachers, Except Special Education","Education, Training, and Library",True,False,1,0,0,0.1
+51-6021.00,"Pressers, Textile, Garment, and Related Materials",Production,False,False,1,0,0,0.1
+29-1069.09,Preventive Medicine Physicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+51-5113.00,Print Binding and Finishing Workers,Production,False,False,1,0,0,0.1
+51-5112.00,Printing Press Operators,Production,False,False,1,0,0,0.1
+33-9021.00,Private Detectives and Investigators,Protective Service,True,False,1,0,0,0.1
+21-1092.00,Probation Officers and Correctional Treatment Specialists,Community and Social Service,False,False,1,0,0,0.1
+43-3061.00,Procurement Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+27-2012.01,Producers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+27-2012.00,Producers and Directors,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+17-2111.03,Product Safety Engineers,Architecture and Engineering,False,False,1,0,0,0.1
+51-9199.00,"Production Workers, All Other",Production,False,False,1,0,0,0.1
+43-5061.00,"Production, Planning, and Expediting Clerks",Office and Administrative Support,False,True,1,0,0,0.1
+27-2012.03,Program Directors,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+43-9081.00,Proofreaders and Copy Markers,Office and Administrative Support,False,False,1,0,0,0.1
+11-9141.00,"Property, Real Estate, and Community Association Managers",Management,True,False,1,0,0,0.1
+29-1024.00,Prosthodontists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+33-9099.00,"Protective Service Workers, All Other",Protective Service,False,False,1,0,0,0.1
+31-1013.00,Psychiatric Aides,Healthcare Support,True,False,1,0,0,0.1
+29-2053.00,Psychiatric Technicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1066.00,Psychiatrists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+19-3039.00,"Psychologists, All Other","Life, Physical, and Social Science",True,False,1,0,0,0.1
+25-1066.00,"Psychology Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+27-3012.00,Public Address System and Other Announcers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+11-2031.00,Public Relations and Fundraising Managers,Management,True,False,1,0,0,0.1
+27-3031.00,Public Relations Specialists,"Arts, Design, Entertainment, Sports, and Media",False,True,1,0,0,0.1
+53-7072.00,"Pump Operators, Except Wellhead Pumpers",Transportation and Material Moving,True,False,1,0,0,0.1
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",Business and Financial Operations,False,False,1,0,0,0.1
+11-3061.00,Purchasing Managers,Management,False,False,1,0,0,0.1
+19-4099.01,Quality Control Analysts,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+11-3051.01,Quality Control Systems Managers,Management,False,False,1,0,0,0.1
+29-1124.00,Radiation Therapists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+27-3011.00,Radio and Television Announcers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+17-2072.01,Radio Frequency Identification Device Specialists,Architecture and Engineering,False,False,1,0,0,0.1
+49-2021.01,Radio Mechanics,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+27-4013.00,Radio Operators,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+49-2021.00,"Radio, Cellular, and Tower Equipment Installers and Repairers","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+29-2099.06,Radiologic Technicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-2034.00,Radiologic Technologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-1069.10,Radiologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+49-3043.00,Rail Car Repairers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+53-4099.00,"Rail Transportation Workers, All Other",Transportation and Material Moving,False,False,1,0,0,0.1
+53-4013.00,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Transportation and Material Moving,False,False,1,0,0,0.1
+47-4061.00,Rail-Track Laying and Maintenance Equipment Operators,Construction and Extraction,True,True,1,0,0,0.1
+53-4021.00,"Railroad Brake, Signal, and Switch Operators",Transportation and Material Moving,False,False,1,0,0,0.1
+53-4031.00,Railroad Conductors and Yardmasters,Transportation and Material Moving,False,True,1,0,0,0.1
+19-1031.02,Range Managers,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+41-9021.00,Real Estate Brokers,Sales and Related,True,False,1,0,0,0.1
+41-9022.00,Real Estate Sales Agents,Sales and Related,True,False,1,0,0,0.1
+43-4171.00,Receptionists and Information Clerks,Office and Administrative Support,True,False,1,0,0,0.1
+25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+39-9032.00,Recreation Workers,Personal Care and Service,True,False,1,0,0,0.1
+29-1125.00,Recreational Therapists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+49-3092.00,Recreational Vehicle Service Technicians,"Installation, Maintenance, and Repair",True,False,1,0,0,0.1
+51-9199.01,Recycling and Reclamation Workers,Production,False,True,1,0,0,0.1
+53-1021.01,Recycling Coordinators,Transportation and Material Moving,False,True,1,0,0,0.1
+49-9045.00,"Refractory Materials Repairers, Except Brickmasons","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+49-9021.02,Refrigeration Mechanics and Installers,"Installation, Maintenance, and Repair",True,True,1,0,0,0.1
+53-7081.00,Refuse and Recyclable Material Collectors,Transportation and Material Moving,True,True,1,0,0,0.1
+29-1141.00,Registered Nurses,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+11-9199.01,Regulatory Affairs Managers,Management,False,True,1,0,0,0.1
+13-1041.07,Regulatory Affairs Specialists,Business and Financial Operations,False,True,1,0,0,0.1
+21-1015.00,Rehabilitation Counselors,Community and Social Service,True,False,1,0,0,0.1
+47-2171.00,Reinforcing Iron and Rebar Workers,Construction and Extraction,True,False,1,0,0,0.1
+21-2099.00,"Religious Workers, All Other",Community and Social Service,False,False,1,0,0,0.1
+19-2099.01,Remote Sensing Scientists and Technologists,"Life, Physical, and Social Science",False,True,1,0,0,0.1
+19-4099.03,Remote Sensing Technicians,"Life, Physical, and Social Science",True,True,1,0,0,0.1
+27-3022.00,Reporters and Correspondents,"Arts, Design, Entertainment, Sports, and Media",False,True,1,0,0,0.1
+43-4181.00,Reservation and Transportation Ticket Agents and Travel Clerks,Office and Administrative Support,False,False,1,0,0,0.1
+39-9041.00,Residential Advisors,Personal Care and Service,True,False,1,0,0,0.1
+29-1126.00,Respiratory Therapists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-2054.00,Respiratory Therapy Technicians,Healthcare Practitioners and Technical,False,False,1,0,0,0.1
+33-9099.02,Retail Loss Prevention Specialists,Protective Service,False,False,1,0,0,0.1
+41-2031.00,Retail Salespersons,Sales and Related,True,False,1,0,0,0.1
+49-9096.00,Riggers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+13-2099.02,Risk Management Specialists,Business and Financial Operations,False,True,1,0,0,0.1
+17-2199.08,Robotics Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+17-3024.01,Robotics Technicians,Architecture and Engineering,False,True,1,0,0,0.1
+47-5051.00,"Rock Splitters, Quarry",Construction and Extraction,False,False,1,0,0,0.1
+51-4023.00,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,1,0,0,0.1
+47-5061.00,"Roof Bolters, Mining",Construction and Extraction,False,False,1,0,0,0.1
+47-2181.00,Roofers,Construction and Extraction,True,True,1,0,0,0.1
+47-5012.00,"Rotary Drill Operators, Oil and Gas",Construction and Extraction,True,False,1,0,0,0.1
+47-2031.02,Rough Carpenters,Construction and Extraction,True,True,1,0,0,0.1
+47-5071.00,"Roustabouts, Oil and Gas",Construction and Extraction,True,False,1,0,0,0.1
+53-5011.00,Sailors and Marine Oilers,Transportation and Material Moving,False,False,1,0,0,0.1
+41-3031.02,"Sales Agents, Financial Services",Sales and Related,False,False,1,0,0,0.1
+41-3031.01,"Sales Agents, Securities and Commodities",Sales and Related,False,False,1,0,0,0.1
+41-9099.00,"Sales and Related Workers, All Other",Sales and Related,False,False,1,0,0,0.1
+41-9031.00,Sales Engineers,Sales and Related,False,False,1,0,0,0.1
+11-2022.00,Sales Managers,Management,False,False,1,0,0,0.1
+41-3099.00,"Sales Representatives, Services, All Other",Sales and Related,True,False,1,0,0,0.1
+41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",Sales and Related,True,False,1,0,0,0.1
+41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Sales and Related,False,True,1,0,0,0.1
+51-7041.00,"Sawing Machine Setters, Operators, and Tenders, Wood",Production,False,False,1,0,0,0.1
+19-3031.01,School Psychologists,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+15-1199.10,Search Marketing Strategists,Computer and Mathematical,True,False,1,0,0,0.1
+25-2031.00,"Secondary School Teachers, Except Special and Career/Technical Education","Education, Training, and Library",False,False,1,0,0,0.1
+43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Office and Administrative Support,True,False,1,0,0,0.1
+41-3031.03,Securities and Commodities Traders,Sales and Related,False,True,1,0,0,0.1
+41-3031.00,"Securities, Commodities, and Financial Services Sales Agents",Sales and Related,False,False,1,0,0,0.1
+49-2098.00,Security and Fire Alarm Systems Installers,"Installation, Maintenance, and Repair",True,False,1,0,0,0.1
+33-9032.00,Security Guards,Protective Service,True,False,1,0,0,0.1
+13-1199.02,Security Management Specialists,Business and Financial Operations,True,False,1,0,0,0.1
+11-9199.07,Security Managers,Management,False,False,1,0,0,0.1
+47-4091.00,Segmental Pavers,Construction and Extraction,True,False,1,0,0,0.1
+25-3021.00,Self-Enrichment Education Teachers,"Education, Training, and Library",True,False,1,0,0,0.1
+51-9141.00,Semiconductor Processors,Production,False,False,1,0,0,0.1
+51-9012.00,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Production,False,True,1,0,0,0.1
+47-4071.00,Septic Tank Servicers and Sewer Pipe Cleaners,Construction and Extraction,True,False,1,0,0,0.1
+47-5013.00,"Service Unit Operators, Oil, Gas, and Mining",Construction and Extraction,True,True,1,0,0,0.1
+27-1027.00,Set and Exhibit Designers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+51-6051.00,"Sewers, Hand",Production,False,False,1,0,0,0.1
+51-6031.00,Sewing Machine Operators,Production,False,False,1,0,0,0.1
+39-5093.00,Shampooers,Personal Care and Service,True,False,1,0,0,0.1
+47-2211.00,Sheet Metal Workers,Construction and Extraction,True,True,1,0,0,0.1
+33-3051.03,Sheriffs and Deputy Sheriffs,Protective Service,False,False,1,0,0,0.1
+53-5021.01,Ship and Boat Captains,Transportation and Material Moving,False,False,1,0,0,0.1
+53-5031.00,Ship Engineers,Transportation and Material Moving,False,False,1,0,0,0.1
+43-5071.00,"Shipping, Receiving, and Traffic Clerks",Office and Administrative Support,False,True,1,0,0,0.1
+51-6041.00,Shoe and Leather Workers and Repairers,Production,False,False,1,0,0,0.1
+51-6042.00,Shoe Machine Operators and Tenders,Production,False,False,1,0,0,0.1
+49-9097.00,Signal and Track Switch Repairers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+27-2042.01,Singers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+39-5094.00,Skincare Specialists,Personal Care and Service,True,False,1,0,0,0.1
+51-3023.00,Slaughterers and Meat Packers,Production,False,False,1,0,0,0.1
+39-1012.00,Slot Supervisors,Personal Care and Service,True,False,1,0,0,0.1
+11-9151.00,Social and Community Service Managers,Management,True,False,1,0,0,0.1
+21-1093.00,Social and Human Service Assistants,Community and Social Service,True,False,1,0,0,0.1
+19-4061.00,Social Science Research Assistants,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+25-1069.00,"Social Sciences Teachers, Postsecondary, All Other","Education, Training, and Library",False,False,1,0,0,0.1
+19-3099.00,"Social Scientists and Related Workers, All Other","Life, Physical, and Social Science",False,False,1,0,0,0.1
+25-1113.00,"Social Work Teachers, Postsecondary","Education, Training, and Library",True,False,1,0,0,0.1
+21-1029.00,"Social Workers, All Other",Community and Social Service,False,False,1,0,0,0.1
+19-3041.00,Sociologists,"Life, Physical, and Social Science",True,False,1,0,0,0.1
+25-1067.00,"Sociology Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+15-1132.00,"Software Developers, Applications",Computer and Mathematical,True,False,1,0,0,0.1
+15-1133.00,"Software Developers, Systems Software",Computer and Mathematical,True,True,1,0,0,0.1
+15-1199.01,Software Quality Assurance Engineers and Testers,Computer and Mathematical,True,False,1,0,0,0.1
+19-1013.00,Soil and Plant Scientists,"Life, Physical, and Social Science",True,True,1,0,0,0.1
+19-1031.01,Soil and Water Conservationists,"Life, Physical, and Social Science",False,True,1,0,0,0.1
+47-1011.03,Solar Energy Installation Managers,Construction and Extraction,True,True,1,0,0,0.1
+17-2199.11,Solar Energy Systems Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+47-2231.00,Solar Photovoltaic Installers,Construction and Extraction,True,True,1,0,0,0.1
+41-4011.07,Solar Sales Representatives and Assessors,Sales and Related,False,True,1,0,0,0.1
+47-4099.02,Solar Thermal Installers and Technicians,Construction and Extraction,True,True,1,0,0,0.1
+51-4121.07,Solderers and Brazers,Production,False,True,1,0,0,0.1
+27-4014.00,Sound Engineering Technicians,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+39-1021.01,Spa Managers,Personal Care and Service,True,False,1,0,0,0.1
+25-2059.00,"Special Education Teachers, All Other","Education, Training, and Library",True,False,1,0,0,0.1
+25-2052.00,"Special Education Teachers, Kindergarten and Elementary School","Education, Training, and Library",False,False,1,0,0,0.1
+25-2053.00,"Special Education Teachers, Middle School","Education, Training, and Library",False,False,1,0,0,0.1
+25-2051.00,"Special Education Teachers, Preschool","Education, Training, and Library",True,False,1,0,0,0.1
+25-2054.00,"Special Education Teachers, Secondary School","Education, Training, and Library",False,False,1,0,0,0.1
+29-1127.00,Speech-Language Pathologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+31-9099.01,Speech-Language Pathology Assistants,Healthcare Support,True,False,1,0,0,0.1
+29-1069.11,Sports Medicine Physicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+43-3021.01,Statement Clerks,Office and Administrative Support,True,False,1,0,0,0.1
+51-8021.00,Stationary Engineers and Boiler Operators,Production,False,True,1,0,0,0.1
+43-9111.00,Statistical Assistants,Office and Administrative Support,True,False,1,0,0,0.1
+15-2041.00,Statisticians,Computer and Mathematical,True,False,1,0,0,0.1
+43-5081.00,Stock Clerks and Order Fillers,Office and Administrative Support,True,False,1,0,0,0.1
+43-5081.01,"Stock Clerks, Sales Floor",Office and Administrative Support,True,False,1,0,0,0.1
+43-5081.03,"Stock Clerks- Stockroom, Warehouse, or Storage Yard",Office and Administrative Support,True,False,1,0,0,0.1
+51-9195.03,"Stone Cutters and Carvers, Manufacturing",Production,False,False,1,0,0,0.1
+47-2022.00,Stonemasons,Construction and Extraction,True,False,1,0,0,0.1
+11-3071.02,Storage and Distribution Managers,Management,False,True,1,0,0,0.1
+47-2221.00,Structural Iron and Steel Workers,Construction and Extraction,True,True,1,0,0,0.1
+51-2041.00,Structural Metal Fabricators and Fitters,Production,False,True,1,0,0,0.1
+21-1011.00,Substance Abuse and Behavioral Disorder Counselors,Community and Social Service,True,False,1,0,0,0.1
+53-4041.00,Subway and Streetcar Operators,Transportation and Material Moving,False,False,1,0,0,0.1
+11-9199.04,Supply Chain Managers,Management,False,True,1,0,0,0.1
+29-1067.00,Surgeons,Healthcare Practitioners and Technical,False,False,1,0,0,0.1
+29-2099.07,Surgical Assistants,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+29-2055.00,Surgical Technologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+19-3022.00,Survey Researchers,"Life, Physical, and Social Science",False,False,1,0,0,0.1
+17-3031.00,Surveying and Mapping Technicians,Architecture and Engineering,False,False,1,0,0,0.1
+17-3031.01,Surveying Technicians,Architecture and Engineering,False,False,1,0,0,0.1
+17-1022.00,Surveyors,Architecture and Engineering,False,False,1,0,0,0.1
+13-1199.05,Sustainability Specialists,Business and Financial Operations,True,True,1,0,0,0.1
+43-2011.00,"Switchboard Operators, Including Answering Service",Office and Administrative Support,False,False,1,0,0,0.1
+51-6052.00,"Tailors, Dressmakers, and Custom Sewers",Production,False,False,1,0,0,0.1
+27-2012.04,Talent Directors,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+53-7121.00,"Tank Car, Truck, and Ship Loaders",Transportation and Material Moving,False,False,1,0,0,0.1
+47-2082.00,Tapers,Construction and Extraction,False,False,1,0,0,0.1
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",Business and Financial Operations,False,False,1,0,0,0.1
+13-2082.00,Tax Preparers,Business and Financial Operations,False,False,1,0,0,0.1
+53-3041.00,Taxi Drivers and Chauffeurs,Transportation and Material Moving,True,False,1,0,0,0.1
+25-9041.00,Teacher Assistants,"Education, Training, and Library",True,False,1,0,0,0.1
+25-3099.00,"Teachers and Instructors, All Other","Education, Training, and Library",True,False,1,0,0,0.1
+51-2092.00,Team Assemblers,Production,False,True,1,0,0,0.1
+27-2012.05,Technical Directors/Managers,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+27-3042.00,Technical Writers,"Arts, Design, Entertainment, Sports, and Media",True,False,1,0,0,0.1
+15-1143.01,Telecommunications Engineering Specialists,Computer and Mathematical,False,False,1,0,0,0.1
+49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers","Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+49-9052.00,Telecommunications Line Installers and Repairers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+41-9041.00,Telemarketers,Sales and Related,False,False,1,0,0,0.1
+43-2021.00,Telephone Operators,Office and Administrative Support,False,False,1,0,0,0.1
+43-3071.00,Tellers,Office and Administrative Support,False,False,1,0,0,0.1
+47-2053.00,Terrazzo Workers and Finishers,Construction and Extraction,True,False,1,0,0,0.1
+51-6061.00,Textile Bleaching and Dyeing Machine Operators and Tenders,Production,False,False,1,0,0,0.1
+51-6062.00,"Textile Cutting Machine Setters, Operators, and Tenders",Production,False,False,1,0,0,0.1
+51-6063.00,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Production,False,False,1,0,0,0.1
+51-6064.00,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Production,False,False,1,0,0,0.1
+51-6099.00,"Textile, Apparel, and Furnishings Workers, All Other",Production,False,False,1,0,0,0.1
+29-1129.00,"Therapists, All Other",Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+47-2044.00,Tile and Marble Setters,Construction and Extraction,True,False,1,0,0,0.1
+51-2093.00,Timing Device Assemblers and Adjusters,Production,False,False,1,0,0,0.1
+51-9197.00,Tire Builders,Production,False,False,1,0,0,0.1
+49-3093.00,Tire Repairers and Changers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+23-2093.00,"Title Examiners, Abstractors, and Searchers",Legal,False,False,1,0,0,0.1
+51-4111.00,Tool and Die Makers,Production,False,False,1,0,0,0.1
+51-4194.00,"Tool Grinders, Filers, and Sharpeners",Production,False,False,1,0,0,0.1
+39-7011.00,Tour Guides and Escorts,Personal Care and Service,True,False,1,0,0,0.1
+53-6041.00,Traffic Technicians,Transportation and Material Moving,False,False,1,0,0,0.1
+11-3131.00,Training and Development Managers,Management,True,False,1,0,0,0.1
+13-1151.00,Training and Development Specialists,Business and Financial Operations,True,True,1,0,0,0.1
+33-3052.00,Transit and Railroad Police,Protective Service,False,False,1,0,0,0.1
+53-6061.00,"Transportation Attendants, Except Flight Attendants",Transportation and Material Moving,False,False,1,0,0,0.1
+17-2051.01,Transportation Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+53-6051.00,Transportation Inspectors,Transportation and Material Moving,False,False,1,0,0,0.1
+11-3071.01,Transportation Managers,Management,False,True,1,0,0,0.1
+19-3099.01,Transportation Planners,"Life, Physical, and Social Science",False,True,1,0,0,0.1
+33-9093.00,Transportation Security Screeners,Protective Service,False,False,1,0,0,0.1
+53-6051.07,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Transportation and Material Moving,False,True,1,0,0,0.1
+53-6099.00,"Transportation Workers, All Other",Transportation and Material Moving,True,False,1,0,0,0.1
+11-3071.00,"Transportation, Storage, and Distribution Managers",Management,False,False,1,0,0,0.1
+41-3041.00,Travel Agents,Sales and Related,False,False,1,0,0,0.1
+39-7012.00,Travel Guides,Personal Care and Service,True,False,1,0,0,0.1
+11-3031.01,Treasurers and Controllers,Management,True,False,1,0,0,0.1
+37-3013.00,Tree Trimmers and Pruners,Building and Grounds Cleaning and Maintenance,True,False,1,0,0,0.1
+25-3099.02,Tutors,"Education, Training, and Library",True,False,1,0,0,0.1
+27-2023.00,"Umpires, Referees, and Other Sports Officials","Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+51-6093.00,Upholsterers,Production,False,False,1,0,0,0.1
+19-3051.00,Urban and Regional Planners,"Life, Physical, and Social Science",True,True,1,0,0,0.1
+29-1069.12,Urologists,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+39-3031.00,"Ushers, Lobby Attendants, and Ticket Takers",Personal Care and Service,False,False,1,0,0,0.1
+17-2199.02,Validation Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+29-1131.00,Veterinarians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+31-9096.00,Veterinary Assistants and Laboratory Animal Caretakers,Healthcare Support,True,False,1,0,0,0.1
+29-2056.00,Veterinary Technologists and Technicians,Healthcare Practitioners and Technical,True,False,1,0,0,0.1
+15-1199.11,Video Game Designers,Computer and Mathematical,True,False,1,0,0,0.1
+25-1194.00,"Vocational Education Teachers, Postsecondary","Education, Training, and Library",False,False,1,0,0,0.1
+35-3031.00,Waiters and Waitresses,Food Preparation and Serving Related,True,False,1,0,0,0.1
+49-9064.00,Watch Repairers,"Installation, Maintenance, and Repair",False,False,1,0,0,0.1
+51-8031.00,Water and Wastewater Treatment Plant and System Operators,Production,False,False,1,0,0,0.1
+11-9121.02,Water Resource Specialists,Management,False,True,1,0,0,0.1
+17-2081.01,Water/Wastewater Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+47-4099.03,Weatherization Installers and Technicians,Construction and Extraction,True,True,1,0,0,0.1
+15-1199.03,Web Administrators,Computer and Mathematical,True,False,1,0,0,0.1
+15-1134.00,Web Developers,Computer and Mathematical,True,False,1,0,0,0.1
+43-5111.00,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",Office and Administrative Support,False,False,1,0,0,0.1
+51-4121.06,"Welders, Cutters, and Welder Fitters",Production,False,True,1,0,0,0.1
+51-4121.00,"Welders, Cutters, Solderers, and Brazers",Production,False,False,1,0,0,0.1
+51-4122.00,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Production,False,False,1,0,0,0.1
+53-7073.00,Wellhead Pumpers,Transportation and Material Moving,False,False,1,0,0,0.1
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",Business and Financial Operations,False,True,1,0,0,0.1
+17-2199.10,Wind Energy Engineers,Architecture and Engineering,False,True,1,0,0,0.1
+11-9199.09,Wind Energy Operations Managers,Management,False,True,1,0,0,0.1
+11-9199.10,Wind Energy Project Managers,Management,False,True,1,0,0,0.1
+49-9081.00,Wind Turbine Service Technicians,"Installation, Maintenance, and Repair",True,True,1,0,0,0.1
+51-7099.00,"Woodworkers, All Other",Production,False,False,1,0,0,0.1
+51-7042.00,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Production,False,False,1,0,0,0.1
+43-9022.00,Word Processors and Typists,Office and Administrative Support,False,False,1,0,0,0.1
+27-3043.00,Writers and Authors,"Arts, Design, Entertainment, Sports, and Media",False,False,1,0,0,0.1
+19-1023.00,Zoologists and Wildlife Biologists,"Life, Physical, and Social Science",False,True,1,0,0,0.1
