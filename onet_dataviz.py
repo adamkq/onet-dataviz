@@ -1,57 +1,19 @@
 # ONET dataviz
 
-import os, sys, time
-import matplotlib, csv, json, requests 
+import os, sys
+import matplotlib, requests 
 import pandas as pd
-import numpy as np
 from bs4 import BeautifulSoup
+from googlesearch import search
 
-def tabulateData(table):
-	'''
-	Returns a pandas dataframe given a suitable bs4 object
-	'''
-	jobFamilySkip = ["Military Specific"] # skip these for now; these are missing data
-	columnNames = ["SOC Code", "Job Name", "Job Family", "isBright", "isGreen"] # iterate to get: Job Zone, Avg Salary, Jobs Forecast, 
-	rows = []
+import onet_helper
 
-	for i, element in enumerate(table2):
-		if i == 0: # first entry is the table header, which is formatted differently
-			continue
-		tags = element.find_all("td")
-		allContents = []
-		for tag in tags:
-			allContents.extend(tag)
-
-		isBright = False # Occupation has 'bright outlook' designation
-		isGreen = False # Occupation has 'green' designation
-		SOC_code = str(allContents[0])
-		jobName = str(allContents[1].contents[0])
-		jobFamily = str(allContents[-1])
-		if jobFamily in jobFamilySkip:
-			continue
-
-		if len(allContents) > 4: # may be bright or green
-			for item in allContents:
-				if 'Tag' in str(type(item)):
-					if "Bright Outlook" in item.attrs.values():
-						isBright = True
-					if "Green" in item.attrs.values():
-						isGreen = True
-					
-		rows.append([SOC_code, jobName, jobFamily, isBright, isGreen])
-
-
-	jobData = pd.DataFrame(rows, columns = columnNames)
-	jobData.insert(jobData.shape[1], "Job Zone", 1)
-	jobData.insert(jobData.shape[1], "Avg Salary", 0)
-	jobData.insert(jobData.shape[1], "Job Forecast", 0)
-	jobData.insert(jobData.shape[1], "ChanceAuto", 0.1)
-	return jobData
-
-print("="*10, "O*NET Dataviz", "="*10)
 scrape = False
+if "-s" in sys.argv:
+	scrape = True
 onet_url = "https://www.onetonline.org/find/family?f=0&g=Go"
 
+print("="*17 + " O*NET Dataviz " + "="*17)
 if (scrape):
 	print("Getting O*NET data...")
 	response = requests.get(onet_url)
@@ -65,7 +27,7 @@ if (scrape):
 	table = soup.find("table", border="0")
 	table2 = table.find_all("tr")
 
-	jobData = tabulateData(table2)
+	jobData = onet_helper.tabulateONETData(table2)
 	jobData.to_csv('jobData.csv',index=False)
 
 else:
@@ -73,11 +35,33 @@ else:
 	jobData = pd.read_csv('jobData.csv')
 
 for index, row in jobData.iterrows():
-	link = "https://www.onetonline.org/link/summary/" + row["SOC Code"]
-	# row = getSummaryData(link)
-	print(link)
-	if index == 4:
+	if not scrape:
 		break
+	SOC_code = row["SOC Code"]
+	jobName = row["Job Name"]
+	# format for O*NET
+	link_onet = "https://www.onetonline.org/link/summary/" + SOC_code
+	# format for this website
+	link_robots = "https://willrobotstakemyjob.com/" + SOC_code[:-3] + "-" + jobName.lower().replace(",","").replace(" ","-")
+	
+	jobSummary = onet_helper.getONETSummary(link_onet) # return [Job Zone, Salary, Growth]
+	jobData.loc[index, "Job Zone"] = jobSummary[0]
+	jobData.loc[index, "Avg Salary"] = jobSummary[1]
+	jobData.loc[index, "Job Forecast"] = jobSummary[2]
+	chanceAuto = onet_helper.getRobots(link_robots) # return [Chance Auto]
+	jobData.loc[index, "ChanceAuto"] = chanceAuto[0]
 
+print("High Payers")
+print(jobData.loc[(jobData["Avg Salary"] > 110000)].sort_values(by = ["Avg Salary"], ascending=False))
+print("Low Payers")
+print(jobData.loc[(jobData["Avg Salary"] < 30000)].sort_values(by = ["Avg Salary"]))
+print("High Growth")
+print(jobData.loc[(jobData["Job Forecast"] > 100000)].sort_values(by = ["Job Forecast"], ascending=False))
+print("Low Growth")
+print(jobData.loc[(jobData["Job Forecast"] < 1000)].sort_values(by = ["Job Forecast"]))
+#jobData.to_csv('jobData.csv',index=False)
+
+
+print("Script Complete. Press Enter to quit.")
 input() # Press Enter to quit
 
