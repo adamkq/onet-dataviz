@@ -10,12 +10,16 @@ def getONETSummary(url_onet):
 	type: a URL to an O*NET summary page
 	rtype: List[int] of relevant values
 	'''
-	print(url_onet)
 	ans = []
 	jobZone = -1
 	salary = -1
 	growth = -1 # Job Zone, Salary, Growth
-	response = requests.get(url_onet)
+	wageGroup = "" # some jobs have their wage data taken from a larger category of jobs
+
+	try:
+		response = requests.get(url_onet)
+	except KeyboardInterrupt:
+		raise
 	soup = BeautifulSoup(response.text, "html.parser")
 	
 	jobZoneTable = soup.find("table", summary="Job Zone information for this occupation")
@@ -26,8 +30,12 @@ def getONETSummary(url_onet):
 			if key in jobZoneTable.contents[0]:
 				jobZone = zoneToIntMap[key]
 
-	wageTable = soup.find("table", summary="Wages & Employment Trends information for this occupation")
-	wageTable = wageTable.find_all("tr")
+	wagesEmployment = soup.find("div", id="wrapper_WagesEmployment")
+	wagesCollectedFrom = wagesEmployment.find_all("p", class_="sm")
+	wageTable = wagesEmployment.find_all("tr")
+
+	if "wages" in wagesCollectedFrom[1].contents[0]: # wage group exists
+		wageGroup = str(wagesCollectedFrom[1].contents[1].contents[0])
 
 	salary_str = wageTable[0].contents[3].contents[0]
 	if "annual" in salary_str:
@@ -40,10 +48,7 @@ def getONETSummary(url_onet):
 
 	salary = float(salary_str[1:-7].replace(",","").replace("+","")) # remove $, +, 'annual'/'hourly', and comma
 	growth = int(growth_str.replace(",",""))
-	ans.append(jobZone)
-	ans.append(salary)
-	ans.append(growth)
-	print(ans)
+	ans.extend([jobZone, salary, growth, wageGroup])
 	return ans
 
 def getRobots(url_robots):
@@ -56,25 +61,28 @@ def getRobots(url_robots):
 	if len(url_robots) > MAX_LEN:
 		url_robots = url_robots[:MAX_LEN]
 		url_robots += '-'
-	response = requests.get(url_robots)
+
+	try:
+		response = requests.get(url_robots)
+	except KeyboardInterrupt:
+		raise
+
 	soup = BeautifulSoup(response.text, "html.parser")
 	table = soup.find("div", class_="probability")
 	if table:
 		ans[0] = float(table.contents[0][:-1])
-	print(url_robots)
-	print(ans)
 	return ans
 
-def tabulateONETData(table):
+def tabulateONETData(table, jobFamilySkip=[]):
 	'''
-	type: a suitable bs4 object
-	rType: a pandas dataframe 
+	type: a suitable bs4 object, and an optional list of Job Families to skip
+	rType: a list of rows to be formatted into a dataframe
 	'''
-	jobFamilySkip = ["Military Specific"] # skip these for now; these are missing data
-	columnNames = ["SOC Code", "Job Name", "Job Family", "isBright", "isGreen"]
+	
 	rows = []
 
 	for i, element in enumerate(table):
+		ans = []
 		if i == 0: # first entry is the table header, which is formatted differently
 			continue
 		tags = element.find_all("td")
@@ -98,12 +106,8 @@ def tabulateONETData(table):
 					if "Green" in item.attrs.values():
 						isGreen = True
 					
-		rows.append([SOC_code, jobName, jobFamily, isBright, isGreen])
 
-
-	jobData = pd.DataFrame(rows, columns = columnNames)
-	jobData.insert(jobData.shape[1], "Job Zone", 1)
-	jobData.insert(jobData.shape[1], "Avg Salary", 0)
-	jobData.insert(jobData.shape[1], "Job Forecast", 0)
-	jobData.insert(jobData.shape[1], "ChanceAuto", 0.1)
-	return jobData
+		ans.extend([SOC_code, jobName, jobFamily, isBright, isGreen])
+		rows.append(ans)
+	return rows
+	
