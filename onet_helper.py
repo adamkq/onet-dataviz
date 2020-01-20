@@ -1,14 +1,16 @@
 #ONET_helper
 #contains functions for web scraping
 
+import sys
 import requests
-import pandas as pd
 from bs4 import BeautifulSoup
 
-def getONETSummary(url_onet):
+def getONETSummary(url_onet, timeout_=5):
 	'''
-	type: a URL to an O*NET summary page
-	rtype: List[int] of relevant values
+	type:
+	1. a URL to an O*NET summary page
+	2. optional timeout
+	rtype: List[mixed types] of relevant values
 	'''
 	ans = []
 	jobZone = -1
@@ -16,12 +18,11 @@ def getONETSummary(url_onet):
 	growth = -1 # Job Zone, Salary, Growth
 	wageGroup = "" # some jobs have their wage data taken from a larger category of jobs
 
-	try:
-		response = requests.get(url_onet)
-	except KeyboardInterrupt:
+	response = requests.get(url_onet, timeout=timeout_)
+	if not (200 <= response.status_code < 300):
 		raise
+
 	soup = BeautifulSoup(response.text, "html.parser")
-	
 	jobZoneTable = soup.find("table", summary="Job Zone information for this occupation")
 	if jobZoneTable: # not all occupations have this
 		jobZoneTable = jobZoneTable.find("td", class_="report2") # The first such entry has the actual Job Zone
@@ -51,9 +52,11 @@ def getONETSummary(url_onet):
 	ans.extend([jobZone, salary, growth, wageGroup])
 	return ans
 
-def getRobots(url_robots):
+def getRobots(url_robots, timeout_=5):
 	'''
-	type: a URL to a 'will robots take my job' summary page
+	type: 
+	1. a URL to a 'will robots take my job' summary page
+	2. optional timeout
 	rtype: List[float] of relevant values
 	'''
 	ans = [-1.0] # data not found
@@ -62,9 +65,8 @@ def getRobots(url_robots):
 		url_robots = url_robots[:MAX_LEN]
 		url_robots += '-'
 
-	try:
-		response = requests.get(url_robots)
-	except KeyboardInterrupt:
+	response = requests.get(url_robots, timeout=timeout_)
+	if not (200 <= response.status_code < 300):
 		raise
 
 	soup = BeautifulSoup(response.text, "html.parser")
@@ -75,7 +77,9 @@ def getRobots(url_robots):
 
 def tabulateONETData(table, jobFamilySkip=[]):
 	'''
-	type: a suitable bs4 object, and an optional list of Job Families to skip
+	type: 
+	1. a suitable bs4 object
+	2. an optional list of Job Families to skip
 	rType: a list of rows to be formatted into a dataframe
 	'''
 	

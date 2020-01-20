@@ -1,4 +1,4 @@
-SOC Code,Job Name,Job Family,isBright,isGreen,Job Zone,Avg Salary,Job Forecast,ChanceAuto,WageGroup
+SOCcode,JobName,JobFamily,isBright,isGreen,JobZone,MedianSalary,JobForecast,ChanceAuto,WageGroup
 13-2011.01,Accountants,Business and Financial Operations,TRUE,FALSE,4,70500,146000,-1,Accountants and Auditors
 13-2011.00,Accountants and Auditors,Business and Financial Operations,TRUE,FALSE,-1,70500,146000,94,
 27-2011.00,Actors,"Arts, Design, Entertainment, Sports, and Media",FALSE,FALSE,2,17.54,7700,37,
