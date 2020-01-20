@@ -29,6 +29,7 @@ onet_summary = "https://www.onetonline.org/link/summary/"
 robots_url = "https://willrobotstakemyjob.com/"
 requests_except_message = "Exception Raised due to timeout or poor response code. Python Exiting."
 KeyboardInterrupt_message = "Script Interrupted by user. Python Exiting."
+skip = True
 
 print("Getting O*NET data...")
 try:
@@ -50,10 +51,10 @@ rows = onet_helper.tabulateONETData(table2, jobFamilySkip)
 
 jobData = pd.DataFrame(rows, columns = columnNames)
 
-jobData.insert(jobData.shape[1], "JobZone", 1)
+jobData.insert(jobData.shape[1], "JobZone", -1)
 jobData.insert(jobData.shape[1], "MedianSalary", 0)
 jobData.insert(jobData.shape[1], "JobForecast", 0)
-jobData.insert(jobData.shape[1], "ChanceAuto", 0.1)
+jobData.insert(jobData.shape[1], "ChanceAuto", -1.0)
 jobData.insert(jobData.shape[1], "WageGroup","")
 
 
@@ -63,9 +64,12 @@ pbar = progressbar.ProgressBar(maxval=jobData.shape[0])
 pbar.start()
 
 for index, row in jobData.iterrows():
-	SOC_code = row["SOCcode"]
+	if skip:
+		jobData = pd.read_csv('jobData.csv')
+		break
+	SOCcode = row["SOCcode"]
 	# format for O*NET
-	link_onet = onet_summary + SOC_code
+	link_onet = onet_summary + SOCcode
 	
 	try:
 		jobSummary = onet_helper.getONETSummary(link_onet) # return [Job Zone, Salary, Growth, WageGroup]
@@ -88,10 +92,18 @@ pbar = progressbar.ProgressBar(maxval=jobData.shape[0])
 pbar.start()
 
 for index, row in jobData.iterrows():
-	SOC_code = row["SOCcode"]
+	SOCcode = row["SOCcode"]
 	jobName = row["JobName"]
+	if (str(jobData.loc[index, "WageGroup"]) != 'nan'): # part of group, so it won't have chanceAuto
+		continue
+
 	# format for this website
-	link_robots = robots_url + SOC_code[:-3] + "-" + jobName.lower().replace(",","").replace(" ","-")
+	d_replace = {",":"", "/":"", " ":"-", "--":chr(8211)}
+	prefix = robots_url + SOCcode[:-3] + "-"
+	# Max URL len is 103-108 chars
+	# sometimes 109...
+	name = onet_helper.nameRobotsFormat(jobName, d_replace, 108-len(prefix), 103-len(prefix))
+	link_robots = prefix + name
 
 	try:
 		chanceAuto = onet_helper.getRobots(link_robots) # return [Chance Auto]
@@ -106,8 +118,7 @@ for index, row in jobData.iterrows():
 	pbar.update(index)
 pbar.finish()
 
-if False:
-	jobData.to_csv('jobData.csv',index=False)
+jobData.to_csv('jobData.csv',index=False)
 
 print("Script Complete. Press Enter to quit.")
 input()

@@ -5,6 +5,38 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 
+def nameRobotsFormat(s, d, maxlen=108, minlen=103):
+	'''
+	type:
+	1. str to format
+	2. dictionary of substrings to replace
+	3. max length of formatted string
+	4. min length of formatted string
+	rtype: formatted string
+	'''
+	s = s.lower()
+	for key in d:
+		s = s.replace(key, d[key])
+
+	if s[maxlen:].find("-") != -1: # clip to last word
+		s = s[:maxlen + s[maxlen:].find("-")]
+
+	while s.rfind("-") > minlen:
+		s = s[:s.rfind("-")]
+
+	if len(s) <= maxlen:
+		return s
+
+	if s[-4:] == "-and": # edge case
+		return s[:-4]
+
+	# string must be within a certain len, but also have at least 2 letters in the last word.
+	while s.rfind("-") < len(s) - 3 and len(s) >= minlen: 
+		s = s[:-1]
+	s += '-'
+		
+	return s
+
 def getONETSummary(url_onet, timeout_=5):
 	'''
 	type:
@@ -60,14 +92,10 @@ def getRobots(url_robots, timeout_=5):
 	rtype: List[float] of relevant values
 	'''
 	ans = [-1.0] # data not found
-	MAX_LEN = 104 # max url size of website
-	if len(url_robots) > MAX_LEN:
-		url_robots = url_robots[:MAX_LEN]
-		url_robots += '-'
-
+	
 	response = requests.get(url_robots, timeout=timeout_)
 	if not (200 <= response.status_code < 300):
-		raise
+		return ans # not all O*NET entries have a corresponding robots entry
 
 	soup = BeautifulSoup(response.text, "html.parser")
 	table = soup.find("div", class_="probability")

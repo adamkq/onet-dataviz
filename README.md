@@ -11,12 +11,17 @@ Scraper does the following:
 4. Extend the table with columns:
         Job Zone, Avg Salary, Jobs Forecast, Chance of Automation, WageGroup
 5. For each existing row, query the O*NET website to get the associated summary data for that job. Extract the values for the columns listed in step 4, except "Chance of Automation', and write it to the dataframe. If the data does not exist, use a default value that is outside the domain of possible valid values.
-6. For each existing row, query the website 'https:// willrobotstakemyjob.com' (sans space) and find the value for 'Chance of Automation'. Write it to the dataframe. If the data does not exist, use a default value that is outside the domain of possible valid values.
+6. For each existing row, query the website willrobotstakemyjob.com and find the value for 'Chance of Automation'. Write it to the dataframe. If the data does not exist, use a default value that is outside the domain of possible valid values.
 7. Write the dataframe to an external file.
 
 Analysis does the following:
 1. Read in an existing jobData dataframe from an external file. No scraping or requests in this script.
 2. Clean up data that is missing or inconsistently formatted.
-3. Group jobs based on "WageGroup" category, if they have one. Such jobs source their wage data from a larger overall employment category.
+3. Reduce the data.
 4. Determine summary data which could reveal useful trends or benchmarks.
-5. Format the raw data and summary data into a chart using matplotlib.
+5. Format the data into a chart.
+
+Note: The default value for chance of automation is '-1'. Jobs may have this value for one or more reasons:
+1. The job is not present in the willrobotstakemyjob.com database.
+2. The URL is formatted inconsistently, so onet_scrape.py can't find it. 
+3. The job has a different name between O*NET and willrobotstakemyjob.com.
