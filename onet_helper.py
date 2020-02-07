@@ -5,6 +5,10 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 
+def exitMsg():
+	print("\nScript Complete. Press Enter to quit.")
+	input()
+
 def nameRobotsFormat(s, d, maxlen=108, minlen=103):
 	'''
 	type:

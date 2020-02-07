@@ -4,7 +4,8 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
-import math
+
+import onet_helper
 
 pd.set_option('display.max_rows', 100)
 
@@ -102,15 +103,15 @@ chanceAuto_NonUni = round(jobData_NonUni["ChanceAuto"].mean())
 
 print("Job Zone Counts:")
 print(jobData["JobZone"].value_counts())
-print("Job Family Counts:")
+print("\nJob Family Counts:")
 print(jobData["JobFamily"].value_counts())
 print(f"\nTotal Number of Jobs Forecast: {totalJobs} M")
 
 print("\nData Below determined by number of job titles, not number of jobs.")
-print(f"Average Salary, Non-University: {avgSal_NonUni}")
-print(f"Average Salary, University: {avgSal_Uni}")
-print(f"Average Chance of Automation, Non-University: {chanceAuto_NonUni}")
-print(f"Average Chance of Automation, University: {chanceAuto_Uni}")
+print(f"Average Salary, Non-University (USD): {avgSal_NonUni}")
+print(f"Average Salary, University (USD): {avgSal_Uni}")
+print(f"Average Chance of Automation, Non-University (%): {chanceAuto_NonUni}")
+print(f"Average Chance of Automation, University (%): {chanceAuto_Uni}")
 
 
 print("\n=== Plotting ===")
@@ -130,7 +131,7 @@ for index, row in jobData.iterrows():
 	jobData.loc[index, "JobZone"] = str(jobData.loc[index, "JobZone"])
 
 # sort so that as many bubbles as possible can be shown
-jobData = jobData[(jobData["JobForecast"] > 2000) | (jobData["MedianSalary"] > 60000)].sort_values("JobForecast", ascending=False)
+jobData = jobData[(jobData["JobForecast"] > 2000) | (jobData["MedianSalary"] > 50000)].sort_values("JobForecast", ascending=False)
 print(f"Number of entries plotted: {jobData.shape[0]}")
 print("Plotting Bubble Chart. This will show up in-browser.")
 
@@ -143,12 +144,12 @@ fig.update_traces(mode='markers', marker=dict(sizemode='area',
 fig.update_layout(
 	title="Salary vs Chance of Automation For Selected Jobs (SOC Code) (Bubble Size indicates 10-yr Forecasted Job Openings)",
 		xaxis=dict(
-		title="Chance of Automation",
+		title="Chance of Automation (%)",
 		gridcolor="white",
 		gridwidth=2,
 	),
 	yaxis=dict(
-		title="Median Salary",
+		title="Median Salary (USD)",
 		gridcolor="white",
 		gridwidth=2,
 	),
@@ -158,5 +159,4 @@ fig.update_layout(
 
 fig.show()
 
-print("\nScript Complete. Press Enter to quit.")
-input()
+onet_helper.exitMsg()

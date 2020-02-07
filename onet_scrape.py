@@ -27,6 +27,7 @@ if "N" in YorN or "n" in YorN:
 onet_url = "https://www.onetonline.org/find/family?f=0&g=Go"
 onet_summary = "https://www.onetonline.org/link/summary/"
 robots_url = "https://willrobotstakemyjob.com/"
+
 requests_except_message = "Exception Raised due to timeout or poor response code. Python Exiting."
 KeyboardInterrupt_message = "Script Interrupted by user. Python Exiting."
 skip = True
@@ -34,7 +35,8 @@ skip = True
 print("Getting O*NET data...")
 try:
 	response = requests.get(onet_url, timeout=5)
-	assert 200 <= response.status_code < 300
+	if not (200 <= response.status_code < 300):
+		raise
 except:
 	print(requests_except_message)
 	sys.exit()
@@ -120,6 +122,5 @@ pbar.finish()
 
 jobData.to_csv('jobData.csv',index=False)
 
-print("Script Complete. Press Enter to quit.")
-input()
+onet_helper.exitMsg()
 
