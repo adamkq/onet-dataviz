@@ -26,7 +26,7 @@ print(pre_message)
 print("Loading data from file...")
 jobData = pd.read_csv('jobData.csv')
 print("Columns:")
-print(list(jobData.columns.array))
+print(list(jobData.columns))
 
 
 print("\n=== Data Reduction ===")
@@ -79,7 +79,7 @@ for index, wg in enumerate(wageGroups):
 			jobData.loc[jobData["JobName"] == wg, "JobZone"] = jobZone
 
 # remove all jobs that were just grouped up
-jobData = jobData.loc[jobData["WageGroup"].isna()] 
+jobData = jobData.loc[jobData["WageGroup"].isnull()] 
 # select all jobs with both a job zone and a chanceAuto
 # jobData = jobData.loc[(jobData["JobZone"] > 0) & (jobData["ChanceAuto"] > 0)]
 print(f"Number of entries after reduction: {jobData.shape[0]}")
@@ -127,8 +127,17 @@ sizeref = 2. * max(jobData["JobForecast"])/(100 ** 2)
 sizemin = 2.
 
 # force the color-scale to be discrete
+# also give names to the JobZones
+jobZoneDesc = {
+	-1: "Unknown or Varied",
+	1: "OJT/No Prior Training",
+	2: "High School",
+	3: "Certification",
+	4: "Bachelor's Degree",
+	5: "Post-Grad Training"
+}
 for index, row in jobData.iterrows():
-	jobData.loc[index, "JobZone"] = str(jobData.loc[index, "JobZone"])
+	jobData.loc[index, "JobZone"] = jobZoneDesc[jobData.loc[index, "JobZone"]]
 
 # sort so that as many bubbles as possible can be shown
 jobData = jobData[(jobData["JobForecast"] > 2000) | (jobData["MedianSalary"] > 50000)].sort_values("JobForecast", ascending=False)
